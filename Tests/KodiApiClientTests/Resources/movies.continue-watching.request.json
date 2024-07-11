@@ -1,0 +1,30 @@
+{
+  "jsonrpc": "2.0",
+  "method": "VideoLibrary.GetMovies",
+  "id": 1720114337148,
+  "params": {
+    "properties": [
+      "title",
+      "art",
+      "playcount",
+      "lastplayed",
+      "dateadded",
+      "resume",
+      "rating",
+      "year",
+      "file",
+      "genre",
+      "writer",
+      "director",
+      "cast",
+      "set",
+      "studio",
+      "mpaa",
+      "tag",
+      "fanart"
+    ],
+    "limits": { "start": 0, "end": 14 },
+    "sort": { "method": "lastplayed", "order": "descending" },
+    "filter": { "operator": "true", "field": "inprogress", "value": "" }
+  }
+}

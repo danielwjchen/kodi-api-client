@@ -1,0 +1,26 @@
+{
+  "jsonrpc": "2.0",
+  "method": "VideoLibrary.GetTVShows",
+  "id": 1720491829214,
+  "params": {
+    "properties": [
+      "title",
+      "art",
+      "playcount",
+      "lastplayed",
+      "dateadded",
+      "episode",
+      "rating",
+      "year",
+      "file",
+      "genre",
+      "watchedepisodes",
+      "cast",
+      "studio",
+      "mpaa",
+      "tag"
+    ],
+    "limits": { "start": 0 },
+    "sort": { "method": "title", "order": "ascending", "ignorearticle": true }
+  }
+}

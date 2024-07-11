@@ -1,0 +1,167 @@
+{
+  "id": 1720491829214,
+  "jsonrpc": "2.0",
+  "result": {
+    "limits": {
+      "end": 2,
+      "start": 0,
+      "total": 2
+    },
+    "tvshows": [
+      {
+        "art": {
+          "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f79168%2ftvbanner%2ffriends-510fbc9229b9e.jpg/",
+          "characterart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f79168%2fcharacterart%2ffriends-4fd99f32368c4.png/",
+          "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f79168%2fhdclearart%2ffriends-51eb365241484.png/",
+          "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhcc6J1bR385nDORynbVPGaavOyZ.png/",
+          "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fl0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg/",
+          "icon": "image://DefaultFolder.png/",
+          "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feAMSFRWEQcBt8dak4pCkjUSveHf.jpg/",
+          "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ff496cm9enuEsZkSPzCwnTESEK5s.jpg/"
+        },
+        "cast": [
+          {
+            "name": "Jennifer Aniston",
+            "order": 0,
+            "role": "Rachel Green",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fo5jCZTBv49mh2JhIpsw3FkGuns7.jpg/"
+          },
+          {
+            "name": "Courteney Cox",
+            "order": 1,
+            "role": "Monica Geller",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3bTVQH9vBXAiwGVHXKLylStz4RT.jpg/"
+          },
+          {
+            "name": "Lisa Kudrow",
+            "order": 2,
+            "role": "Phoebe Buffay",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fmRzSI0ABmzxvU6wjpJKLcYCfM5k.jpg/"
+          },
+          {
+            "name": "Matt LeBlanc",
+            "order": 3,
+            "role": "Joey Tribbiani",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fa7Fl1sLUq1UDJ4pHsnwpBdEiDEZ.jpg/"
+          },
+          {
+            "name": "Matthew Perry",
+            "order": 4,
+            "role": "Chandler Bing",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fecDzkLWPV1z0x31I1GTjNmLxAHk.jpg/"
+          },
+          {
+            "name": "David Schwimmer",
+            "order": 5,
+            "role": "Ross Geller",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2foBsK1ql5bo3zxepbQCclIwnapXM.jpg/"
+          }
+        ],
+        "dateadded": "2014-12-23 13:32:04",
+        "episode": 162,
+        "file": "/TV Shows/Friends/",
+        "genre": ["Comedy"],
+        "label": "Friends",
+        "lastplayed": "",
+        "mpaa": "Rated TV-14",
+        "playcount": 0,
+        "rating": 8.399999618530273,
+        "studio": ["NBC"],
+        "tag": [
+          "friendship",
+          "new york city",
+          "manhattan, new york city",
+          "young adult",
+          "best friends",
+          "group of friends",
+          "roommate",
+          "cafe",
+          "sitcom",
+          "new yorker",
+          "searching for love",
+          "mid-20s",
+          "apartment"
+        ],
+        "title": "Friends",
+        "tvshowid": 1,
+        "watchedepisodes": 0,
+        "year": 1994
+      },
+      {
+        "art": {
+          "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f366529%2ftvbanner%2fstation-eleven-61c2064c37ff8.jpg/",
+          "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fwhSmtcD1IWa65q4XeXVOlcjyC4u.png/",
+          "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkiiPOuzjyIe793tgGsM5j5DaRxb.jpg/",
+          "icon": "image://DefaultFolder.png/",
+          "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8SeuXCkzOoHynPzOGJiuh3eOoSz.jpg/",
+          "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxWlhMOzRxUpu4uzkWcDQOaESCE.jpg/"
+        },
+        "cast": [
+          {
+            "name": "Mackenzie Davis",
+            "order": 0,
+            "role": "Kirsten Raymonde",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fekQbEIKh26jbz17P0wwLbo6uNs9.jpg/"
+          },
+          {
+            "name": "Himesh Patel",
+            "order": 1,
+            "role": "Jeevan Chaudhary",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffC6diZ0i3Epot9dRl7b2SSegf4L.jpg/"
+          },
+          {
+            "name": "Matilda Lawler",
+            "order": 2,
+            "role": "Young Kirsten",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5zxaZn7l3ulurRy6SW6vRcS8meV.jpg/"
+          },
+          {
+            "name": "David Wilmot",
+            "order": 3,
+            "role": "Clark Thompson",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fepb46N0iJyAmSOguMdFn6qQGSsy.jpg/"
+          },
+          {
+            "name": "Nabhaan Rizwan",
+            "order": 4,
+            "role": "Frank Chaudhary",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fljDpNmRnx9Mxe6DZbOMVZlGVXAN.jpg/"
+          },
+          {
+            "name": "Daniel Zovatto",
+            "order": 5,
+            "role": "The Prophet",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6B9hny2s7frxtbRqrHqOT7ESB4A.jpg/"
+          },
+          {
+            "name": "Philippine Velge",
+            "order": 6,
+            "role": "Alexandra",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgqTkAEIlcDisOnfuyusqZtBb1IG.jpg/"
+          },
+          {
+            "name": "Lori Petty",
+            "order": 7,
+            "role": "Sarah / The Conductor",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbmJFh4VxRii7h7jpo4YVC6BFeVd.jpg/"
+          }
+        ],
+        "dateadded": "2022-01-14 16:58:21",
+        "episode": 8,
+        "file": "/TV Shows/Station Eleven (2021)/",
+        "genre": ["Drama", "Sci-Fi & Fantasy", "Mystery"],
+        "label": "Station Eleven",
+        "lastplayed": "",
+        "mpaa": "Rated TV-MA",
+        "playcount": 0,
+        "rating": 7.025000095367432,
+        "studio": ["HBO Max"],
+        "tag": ["based on novel or book", "post-apocalyptic future"],
+        "title": "Station Eleven",
+        "tvshowid": 2,
+        "watchedepisodes": 0,
+        "year": 2021
+      }
+    ]
+  }
+}

@@ -1,0 +1,4516 @@
+{
+  "id": 1720114337153,
+  "jsonrpc": "2.0",
+  "result": {
+    "limits": {
+      "end": 14,
+      "start": 0,
+      "total": 564
+    },
+    "movies": [
+      {
+        "art": {
+          "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f42188%2fmoviebanner%2fnever-let-me-go-51a9dd1a2409f.jpg/",
+          "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f42188%2fhdmovieclearart%2fnever-let-me-go-53388bafafc02.png/",
+          "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f42188%2fhdmovielogo%2fnever-let-me-go-50533b2b52ad2.png/",
+          "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f42188%2fmoviedisc%2fnever-let-me-go-5f568c1d95d86.png/",
+          "fanart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f42188%2fmoviebackground%2fnever-let-me-go-61d43e41ab196.jpg/",
+          "icon": "image://DefaultVideo.png/",
+          "keyart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f42188%2fmovieposter%2fnever-let-me-go-5345714f4d4be.jpg/",
+          "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f42188%2fmoviethumb%2fnever-let-me-go-624845381081b.jpg/",
+          "poster": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f42188%2fmovieposter%2fnever-let-me-go-534571424de84.jpg/",
+          "thumb": "image://video@%2fMovies%2fNever%20Let%20Me%20Go%20(2010)%2fNever.Let.Me.Go.2010.1080p.mp4/"
+        },
+        "cast": [
+          {
+            "name": "Carey Mulligan",
+            "order": 0,
+            "role": "Kathy H.",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fiwVHhqoz5b62FR0SDpZ7wfsuTBI.jpg/"
+          },
+          {
+            "name": "Keira Knightley",
+            "order": 1,
+            "role": "Ruth C.",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbRC1B2VwV0wK3ElciFAK6QZf2wD.jpg/"
+          },
+          {
+            "name": "Andrew Garfield",
+            "order": 2,
+            "role": "Tommy D.",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg/"
+          },
+          {
+            "name": "Izzy Meikle-Small",
+            "order": 3,
+            "role": "Young Kathy",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzQZyOJXQF8XApPRBoDJaasI3RHA.jpg/"
+          },
+          {
+            "name": "Ella Purnell",
+            "order": 4,
+            "role": "Young Ruth",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5PscK9HNXGFQMIxkpbR8ObB7vuR.jpg/"
+          },
+          {
+            "name": "Charlie Rowe",
+            "order": 5,
+            "role": "Young Tommy",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuj6FPTxlcjPGyQlCLEjFogvU8ny.jpg/"
+          },
+          {
+            "name": "Sally Hawkins",
+            "order": 6,
+            "role": "Miss Lucy",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fosYgwtQIiNbPFc8JkFDxreBgqxZ.jpg/"
+          },
+          {
+            "name": "Charlotte Rampling",
+            "order": 7,
+            "role": "Miss Emily",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7fhg5FCcl0VfYERP5D0unpybqgx.jpg/"
+          },
+          {
+            "name": "Domhnall Gleeson",
+            "order": 8,
+            "role": "Rodney",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuDbwncuKlqL0fAuucXSvgakJDrc.jpg/"
+          },
+          {
+            "name": "Andrea Riseborough",
+            "order": 9,
+            "role": "Chrissie",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdQzAXj6R8cTRqTwGzxUgegXbV13.jpg/"
+          },
+          {
+            "name": "Nathalie Richard",
+            "order": 10,
+            "role": "Madame",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f299hXLV3NikHBGFm7J2iIO3c699.jpg/"
+          },
+          {
+            "name": "Kate Bowes Renna",
+            "order": 11,
+            "role": "Miss Geraldine"
+          },
+          {
+            "name": "Hannah Sharp",
+            "order": 12,
+            "role": "Amanda"
+          },
+          {
+            "name": "Christina Carrafiell",
+            "order": 13,
+            "role": "Laura",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9iFyJkkLkM0fWATrzbx0rXalP5E.jpg/"
+          },
+          {
+            "name": "Oliver Parsons",
+            "order": 14,
+            "role": "Arthur"
+          },
+          {
+            "name": "Luke Bryant",
+            "order": 15,
+            "role": "David"
+          },
+          {
+            "name": "Fidelis Morgan",
+            "order": 16,
+            "role": "Matron"
+          },
+          {
+            "name": "Damien Thomas",
+            "order": 17,
+            "role": "Doctor",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7t2cnLBZxROSlANtHMuPXUhR8tS.jpg/"
+          },
+          {
+            "name": "Huggy Leaver",
+            "order": 18,
+            "role": "Delivery Man 1"
+          },
+          {
+            "name": "Charles Cork",
+            "order": 19,
+            "role": "Delivery Man 2",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbSTR9ax1fjbve2r1r5448PP5AfG.jpg/"
+          },
+          {
+            "name": "Sylvie Macdonald",
+            "order": 20,
+            "role": "Bumper Crop Girl"
+          },
+          {
+            "name": "David Sterne",
+            "order": 21,
+            "role": "Keffers",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fipvWDt43Md5CHeq4tDq6oucNFl5.jpg/"
+          },
+          {
+            "name": "Kate Sissons",
+            "order": 22,
+            "role": "Sitcom Girl",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faytWPOmlr9n10PW9Ty1s7Tm5WMH.jpg/"
+          },
+          {
+            "name": "Amy Lennox",
+            "order": 23,
+            "role": "Sitcom Girl",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5ZacZIFjrxNkuuXRfVlIC2aGNVo.jpg/"
+          },
+          {
+            "name": "Anna Maria Everett",
+            "order": 24,
+            "role": "Waitress",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7W1xwzrC3IphJi2sm6e6rCwbRHr.jpg/"
+          },
+          {
+            "name": "John Gillespie",
+            "order": 25,
+            "role": "Male Office Worker",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhdmRIeZLZovr5r1BSmf6sMfRBq4.jpg/"
+          },
+          {
+            "name": "Rachel Boss",
+            "order": 26,
+            "role": "Female Office Worker"
+          },
+          {
+            "name": "Lydia Wilson",
+            "order": 27,
+            "role": "Hannah",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyjuJDZxNJjgX0RueQ5eY6GWhTKX.jpg/"
+          },
+          {
+            "name": "Monica Dolan",
+            "order": 28,
+            "role": "Nurse",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2flR61knP6P7ESFYUapWNhG22TA3s.jpg/"
+          },
+          {
+            "name": "Chidi Chickwe",
+            "order": 29,
+            "role": "George"
+          }
+        ],
+        "dateadded": "2024-06-23 10:37:25",
+        "director": ["Mark Romanek"],
+        "fanart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f42188%2fmoviebackground%2fnever-let-me-go-61d43e41ab196.jpg/",
+        "file": "/Movies/Never Let Me Go (2010)/Never.Let.Me.Go.2010.1080p.mp4",
+        "genre": ["Drama", "Romance", "Science Fiction"],
+        "label": "Never Let Me Go",
+        "lastplayed": "",
+        "movieid": 567,
+        "mpaa": "Rated R",
+        "playcount": 0,
+        "rating": 6.8460001945495605,
+        "resume": {
+          "position": 0,
+          "total": 0
+        },
+        "set": "",
+        "studio": ["Fox Searchlight Pictures"],
+        "tag": [
+          "london, england",
+          "dystopia",
+          "cloning",
+          "based on novel or book",
+          "love triangle",
+          "forgiveness",
+          "existentialism",
+          "boarding school",
+          "sadness",
+          "england",
+          "aging",
+          "morality",
+          "human rights",
+          "human parts trade",
+          "human cloning",
+          "crime against humanity",
+          "medical ethics",
+          "organ harvesting",
+          "abomination"
+        ],
+        "title": "Never Let Me Go",
+        "writer": ["Alex Garland"],
+        "year": 2010
+      },
+      {
+        "art": {
+          "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f120467%2fmoviebanner%2fthe-grand-budapest-hotel-5394b87be67fb.jpg/",
+          "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f120467%2fhdmovieclearart%2fthe-grand-budapest-hotel-5338403c2f336.png/",
+          "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f120467%2fhdmovielogo%2fthe-grand-budapest-hotel-53109f75a545c.png/",
+          "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f120467%2fmoviedisc%2fthe-grand-budapest-hotel-53ae02075a421.png/",
+          "fanart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f120467%2fmoviebackground%2fthe-grand-budapest-hotel-54ecd8c05b9a9.jpg/",
+          "icon": "image://DefaultVideo.png/",
+          "keyart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f120467%2fmovieposter%2fthe-grand-budapest-hotel-533186c3aa0c8.jpg/",
+          "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f120467%2fmoviethumb%2fthe-grand-budapest-hotel-5394b64fbc708.jpg/",
+          "poster": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f120467%2fmovieposter%2fthe-grand-budapest-hotel-54ecd7f8a1c8b.jpg/",
+          "thumb": "image://video@%2fMovies%2fThe%20Grand%20Budapest%20Hotel%20(2014)%2fThe%20Grand%20Budapest%20Hotel%202014%201080p%20%20x264%20.mp4/"
+        },
+        "cast": [
+          {
+            "name": "Ralph Fiennes",
+            "order": 0,
+            "role": "M. Gustave",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg/"
+          },
+          {
+            "name": "F. Murray Abraham",
+            "order": 1,
+            "role": "Mr. Moustafa",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fp2RYVGdrcP0m70BkkiKcwyrDeim.jpg/"
+          },
+          {
+            "name": "Mathieu Amalric",
+            "order": 2,
+            "role": "Serge X.",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffMhfoTbjlXQy2Iojp7oYx49hLQl.jpg/"
+          },
+          {
+            "name": "Adrien Brody",
+            "order": 3,
+            "role": "Dmitri",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1dBItgLFBNGEXnI48VvnnN2vFaX.jpg/"
+          },
+          {
+            "name": "Willem Dafoe",
+            "order": 4,
+            "role": "Jopling",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fui8e4sgZAwMPi3hzEO53jyBJF9B.jpg/"
+          },
+          {
+            "name": "Jeff Goldblum",
+            "order": 5,
+            "role": "Deputy Kovacs",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fo3PahuK7OmCI0RAQUq38CUBWYZ9.jpg/"
+          },
+          {
+            "name": "Harvey Keitel",
+            "order": 6,
+            "role": "Ludwig",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7P30hza1neYWW3r7rSQOC736K2Z.jpg/"
+          },
+          {
+            "name": "Jude Law",
+            "order": 7,
+            "role": "Young Author",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9H577IoqFgCXonDzR3QEkF2xo5m.jpg/"
+          },
+          {
+            "name": "Bill Murray",
+            "order": 8,
+            "role": "M. Ivan",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnnCsJc9x3ZiG3AFyiyc3FPehppy.jpg/"
+          },
+          {
+            "name": "Edward Norton",
+            "order": 9,
+            "role": "Henckels",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5XBzD5WuTyVQZeS4VI25z2moMeY.jpg/"
+          },
+          {
+            "name": "Saoirse Ronan",
+            "order": 10,
+            "role": "Agatha",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9buDPdqKN9vbnQLLkHEinDtMrCG.jpg/"
+          },
+          {
+            "name": "Jason Schwartzman",
+            "order": 11,
+            "role": "M. Jean",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgCjMdmW1DiPAClHVl4zHEIffIsE.jpg/"
+          },
+          {
+            "name": "Léa Seydoux",
+            "order": 12,
+            "role": "Clotilde",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftUfoM95x70Qsb1ElClPSpSrZQ2v.jpg/"
+          },
+          {
+            "name": "Tilda Swinton",
+            "order": 13,
+            "role": "Madame D.",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgWbX3a7V2MgRMRzekfITNcb27xV.jpg/"
+          },
+          {
+            "name": "Tom Wilkinson",
+            "order": 14,
+            "role": "Author",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fd5yLk0PK8q7EKR3E3G2txO758IW.jpg/"
+          },
+          {
+            "name": "Owen Wilson",
+            "order": 15,
+            "role": "M. Chuck",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fntN3DL1Us5G2PCvlfq112vLXRKa.jpg/"
+          },
+          {
+            "name": "Tony Revolori",
+            "order": 16,
+            "role": "Zero",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftSF6XmXDikrKZbFUeoDnafXxKjT.jpg/"
+          },
+          {
+            "name": "Larry Pine",
+            "order": 17,
+            "role": "Mr. Mosher",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fwJRarkKBRVxDzKIB5O22tLd3wAT.jpg/"
+          },
+          {
+            "name": "Giselda Volodi",
+            "order": 18,
+            "role": "Serge's Sister",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fg3L1QiOln7NOOJcDuLNgDum23x9.jpg/"
+          },
+          {
+            "name": "Florian Lukas",
+            "order": 19,
+            "role": "Pinky",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fcZ8ONguycVXYfZGLlAgrhLrjVWg.jpg/"
+          },
+          {
+            "name": "Karl Markovics",
+            "order": 20,
+            "role": "Wolf",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgQrQLzFze9rPz40kkr1RWuqLAJN.jpg/"
+          },
+          {
+            "name": "Volker Michalowski",
+            "order": 21,
+            "role": "Günther",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fv6Q6U2Y74fPnJspnIymzI6EgeIq.jpg/"
+          },
+          {
+            "name": "Neal Huff",
+            "order": 22,
+            "role": "Lieutenant",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9AZJ2b5QvyTYb8gLPXDfVbU7YYD.jpg/"
+          },
+          {
+            "name": "Bob Balaban",
+            "order": 23,
+            "role": "M. Martin",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyuSZZP4QPqrfnXX8WwdvlPUUin6.jpg/"
+          },
+          {
+            "name": "Fisher Stevens",
+            "order": 24,
+            "role": "M. Robin",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvfyZMT3t3mGTloYGrC7T3QhGkwp.jpg/"
+          },
+          {
+            "name": "Wallace Wolodarsky",
+            "order": 25,
+            "role": "M. Georges",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fa6npTg5wUQIHkyH17m5FPc9hJPV.jpg/"
+          },
+          {
+            "name": "Waris Ahluwalia",
+            "order": 26,
+            "role": "M. Dino",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3vZYvthY4xqkr5MroOmZn0YwIdA.jpg/"
+          },
+          {
+            "name": "Jella Niemann",
+            "order": 27,
+            "role": "Student"
+          },
+          {
+            "name": "Marcel Mazur",
+            "order": 28,
+            "role": "Author's Grandson",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2flb3B42nNg9YYEtOs8mVXo1xbKfp.jpg/"
+          },
+          {
+            "name": "Robert Bienas",
+            "order": 29,
+            "role": "Alpine Hiker"
+          },
+          {
+            "name": "Manfred Lindner",
+            "order": 30,
+            "role": "Front Desk (1968)"
+          },
+          {
+            "name": "Oliver Claridge",
+            "order": 31,
+            "role": "Composer"
+          },
+          {
+            "name": "Bernhard Kremser",
+            "order": 32,
+            "role": "Businessman"
+          },
+          {
+            "name": "Kunichi Nomura",
+            "order": 33,
+            "role": "Actor",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftcKdM9q1yWhNwZVUy59LFs2jaXM.jpg/"
+          },
+          {
+            "name": "Sister Anna Rademacher",
+            "order": 34,
+            "role": "Nun"
+          },
+          {
+            "name": "Heinz-Werner Jeschkowski",
+            "order": 35,
+            "role": "Bather"
+          },
+          {
+            "name": "Steffen Scheumann",
+            "order": 36,
+            "role": "Head Waiter (1968)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5UpraIaxarSwQX2SVVVe1G9mEea.jpg/"
+          },
+          {
+            "name": "Sabine Euler",
+            "order": 37,
+            "role": "Schoolteacher"
+          },
+          {
+            "name": "Renate Klein",
+            "order": 38,
+            "role": "Widow"
+          },
+          {
+            "name": "Uwe Holoubek",
+            "order": 39,
+            "role": "Second Waiter (1968)"
+          },
+          {
+            "name": "Francesco Zippel",
+            "order": 40,
+            "role": "Footman (1932)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fjf5q7LEwYuXdMzNZTWfliBsUs6P.jpg/"
+          },
+          {
+            "name": "Enrico Hoffmann",
+            "order": 41,
+            "role": "Footman (1932)"
+          },
+          {
+            "name": "Daniel Steiner",
+            "order": 42,
+            "role": "Anatole",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2flHGDQVXUCzmY1zwzwM9Pw5ahfpn.jpg/"
+          },
+          {
+            "name": "Marie Goyette",
+            "order": 43,
+            "role": "Housekeeper (1932)"
+          },
+          {
+            "name": "Hendrik von Bültzingslöwen",
+            "order": 44,
+            "role": "Ernst",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feedYttz3kyZBjanPU4JQLGqJprJ.jpg/"
+          },
+          {
+            "name": "Paul Schlase",
+            "order": 45,
+            "role": "Igor",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2foCwwwEPH4gVvdefK8T9B9JWkJPQ.jpg/"
+          },
+          {
+            "name": "Jenő Orosz",
+            "order": 46,
+            "role": "Doorman (1932)"
+          },
+          {
+            "name": "Gyula Lukács",
+            "order": 47,
+            "role": "Doorman (1932)"
+          },
+          {
+            "name": "Darin Damjanow",
+            "order": 48,
+            "role": "Chauffeur"
+          },
+          {
+            "name": "Dar Ronge",
+            "order": 49,
+            "role": "Crippled Shoeshine Boy"
+          },
+          {
+            "name": "Georg Rittmannsperger",
+            "order": 50,
+            "role": "Front Desk (1932)"
+          },
+          {
+            "name": "Dirk Bossmann",
+            "order": 51,
+            "role": "Front Desk (1932)"
+          },
+          {
+            "name": "Arwin Lobedann",
+            "order": 52,
+            "role": "Front Desk (1932)"
+          },
+          {
+            "name": "Robin Hurlstone",
+            "order": 53,
+            "role": "Herr Schneider",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3d07nHOA2Z9gAk1fRgdaPNYXVD3.jpg/"
+          },
+          {
+            "name": "Jutta Westphal",
+            "order": 54,
+            "role": "Frau Liebling"
+          },
+          {
+            "name": "Matthias Holfert",
+            "order": 55,
+            "role": "Chef (1932)"
+          },
+          {
+            "name": "Lisa Kreuzer",
+            "order": 56,
+            "role": "Grande Dame",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fiDlFoZkpOL856wiEDlJT3ksfzP.jpg/"
+          },
+          {
+            "name": "Gisela Bech",
+            "order": 57,
+            "role": "Grande Dame"
+          },
+          {
+            "name": "Birgit Müller",
+            "order": 58,
+            "role": "Grande Dame"
+          },
+          {
+            "name": "Ursula Kuhnt",
+            "order": 59,
+            "role": "Grande Dame"
+          },
+          {
+            "name": "Monika Krüger",
+            "order": 60,
+            "role": "Grande Dame"
+          },
+          {
+            "name": "Wolfram Nielacny",
+            "order": 61,
+            "role": "Herr Becker"
+          },
+          {
+            "name": "Reinhold Hegelow",
+            "order": 62,
+            "role": "Head Waiter (1932)"
+          },
+          {
+            "name": "Steffen Nixdorf",
+            "order": 63,
+            "role": "Second Waiter (1932)"
+          },
+          {
+            "name": "Rainer Reiners",
+            "order": 64,
+            "role": "Herr Mendl",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fn2JUmlVd9EJq9G8VCzTNTn5JEE0.jpg/"
+          },
+          {
+            "name": "Milton Welsh",
+            "order": 65,
+            "role": "Franz",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6t0LvgHgnUtnBHVOZEDt20YRbQf.jpg/"
+          },
+          {
+            "name": "Piet Paes",
+            "order": 66,
+            "role": "Taxi Driver"
+          },
+          {
+            "name": "Michaela Caspar",
+            "order": 67,
+            "role": "Marguerite",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fr6hhOreo8aermJiTQjUvwwl2nKb.jpg/"
+          },
+          {
+            "name": "Sabine Urig",
+            "order": 68,
+            "role": "Laetizia",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7KXxFB95XVl9FlqrOf9FNu7nY1H.jpg/"
+          },
+          {
+            "name": "Heike Hanold-Lynch",
+            "order": 69,
+            "role": "Carolina",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fejqUfDN5oIfOGEWWWotGz52Kxli.jpg/"
+          },
+          {
+            "name": "Roy Macready",
+            "order": 70,
+            "role": "Old Man"
+          },
+          {
+            "name": "John Peet",
+            "order": 71,
+            "role": "Young Man"
+          },
+          {
+            "name": "Carl Sprague",
+            "order": 72,
+            "role": "Distant Relation"
+          },
+          {
+            "name": "Golo Euler",
+            "order": 73,
+            "role": "Lutz Police Militia",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2foiYKyyQKwn3ZOebM7cQMYgTQtbP.jpg/"
+          },
+          {
+            "name": "Jürgen Schwämmle",
+            "order": 74,
+            "role": "Lutz Police Militia"
+          },
+          {
+            "name": "Frank Jacob",
+            "order": 75,
+            "role": "Giant Convict"
+          },
+          {
+            "name": "Claudia Jung",
+            "order": 76,
+            "role": "Usherette",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqXGxlz6XnNtmFr3y7CJpPVKT6qC.jpg/"
+          },
+          {
+            "name": "Roman Berger",
+            "order": 77,
+            "role": "Parcel Inspector"
+          },
+          {
+            "name": "Michael Benthin",
+            "order": 78,
+            "role": "Snitch",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkrKI3EiVQXZESRhlyrHBQKGuJGi.jpg/"
+          },
+          {
+            "name": "Matthias Matschke",
+            "order": 79,
+            "role": "Prison Guard",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3TqSk6Wx2baqIqRbqT8gaHoPAGk.jpg/"
+          },
+          {
+            "name": "Lennart Meyer",
+            "order": 80,
+            "role": "Lobby Boy"
+          },
+          {
+            "name": "Alfred Hänel",
+            "order": 81,
+            "role": "Lobby Boy"
+          },
+          {
+            "name": "Manpreet Gerlach",
+            "order": 82,
+            "role": "Lobby Boy"
+          },
+          {
+            "name": "David Adamik",
+            "order": 83,
+            "role": "Lobby Boy"
+          },
+          {
+            "name": "Moritz Hepper",
+            "order": 84,
+            "role": "Lobby Boy"
+          },
+          {
+            "name": "David Cioffi",
+            "order": 85,
+            "role": "Cook"
+          },
+          {
+            "name": "Lucas Hedges",
+            "order": 86,
+            "role": "Pump Attendant",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8WP1uXUwm6Z1vzrMaIiKj89M6kX.jpg/"
+          },
+          {
+            "name": "Wolfgang Czeczor",
+            "order": 87,
+            "role": "Monk"
+          },
+          {
+            "name": "Philipp Sonntag",
+            "order": 88,
+            "role": "Monk",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8786YdKIUUHwkXFOuqDCvYG8qZu.jpg/"
+          },
+          {
+            "name": "Hans Martin Stier",
+            "order": 89,
+            "role": "Monk",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fajbFzrVPBeyzEb0kKwlVS6LdSXj.jpg/"
+          },
+          {
+            "name": "Georg Tryphon",
+            "order": 90,
+            "role": "Monk"
+          },
+          {
+            "name": "Gabriel Rush",
+            "order": 91,
+            "role": "Otto",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fywELQdoOhahLGszeKAiGWybjcy2.jpg/"
+          },
+          {
+            "name": "Hannes Wegener",
+            "order": 92,
+            "role": "Soldier",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnZzHmYSMXb4yVkv0NPfwC8mXSwh.jpg/"
+          },
+          {
+            "name": "Gerald Sullivan",
+            "order": 93,
+            "role": "Soldier"
+          },
+          {
+            "name": "Oliver Hazell",
+            "order": 94,
+            "role": "Soldier"
+          },
+          {
+            "name": "Ben Howard",
+            "order": 95,
+            "role": "Soldier",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1SlABb5wF8iah78E4T8iB0tRFU8.jpg/"
+          },
+          {
+            "name": "Bohumil Váchal",
+            "order": 96,
+            "role": "Judge"
+          },
+          {
+            "name": "Marko Dyrlich",
+            "order": 97,
+            "role": "Zig-Zag",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftGdr5ZyuZVsPDHgkfWAgDT9hHPS.jpg/"
+          },
+          {
+            "name": "Ed Munro",
+            "order": 98,
+            "role": "'Boy with Apple' (model)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2foNB2UCMbgw4xjZdeKpCq8OqQuxj.jpg/"
+          }
+        ],
+        "dateadded": "2024-01-06 17:17:14",
+        "director": ["Wes Anderson"],
+        "fanart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f120467%2fmoviebackground%2fthe-grand-budapest-hotel-54ecd8c05b9a9.jpg/",
+        "file": "/Movies/The Grand Budapest Hotel (2014)/The Grand Budapest Hotel 2014 1080p .mp4",
+        "genre": ["Comedy", "Drama"],
+        "label": "The Grand Budapest Hotel",
+        "lastplayed": "",
+        "movieid": 568,
+        "mpaa": "Rated R",
+        "playcount": 0,
+        "rating": 8.050000190734863,
+        "resume": {
+          "position": 0,
+          "total": 0
+        },
+        "set": "",
+        "studio": ["Fox Searchlight Pictures"],
+        "tag": [
+          "painting",
+          "1960s",
+          "1930s",
+          "hotel",
+          "gunfight",
+          "theft",
+          "eastern europe",
+          "author",
+          "wartime",
+          "bellboy",
+          "mentor protégé relationship",
+          "european",
+          "hotel lobby",
+          "renaissance painting",
+          "admiring",
+          "cheerful"
+        ],
+        "title": "The Grand Budapest Hotel",
+        "writer": ["Wes Anderson"],
+        "year": 2014
+      },
+      {
+        "art": {
+          "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f635910%2fmoviebanner%2fthe-last-voyage-of-the-demeter-64d3e30e1c58f.jpg/",
+          "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f635910%2fhdmovieclearart%2fthe-last-voyage-of-the-demeter-653aa36d04321.png/",
+          "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f635910%2fhdmovielogo%2fthe-last-voyage-of-the-demeter-64b2b22d0eaa3.png/",
+          "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f635910%2fmoviedisc%2fthe-last-voyage-of-the-demeter-64d3e2c3bf8b9.png/",
+          "fanart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f635910%2fmoviebackground%2fthe-last-voyage-of-the-demeter-64b2b267902ab.jpg/",
+          "icon": "image://DefaultVideo.png/",
+          "keyart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f635910%2fmovieposter%2fthe-last-voyage-of-the-demeter-64b2b24a77f2f.jpg/",
+          "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f635910%2fmoviethumb%2fthe-last-voyage-of-the-demeter-64fc2d26d9013.jpg/",
+          "poster": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f635910%2fmovieposter%2fthe-last-voyage-of-the-demeter-64b2b23b157cb.jpg/",
+          "thumb": "image://video@%2fMovies%2fLast%20Voyage%20of%20the%20Demeter%20(2023)%2fThe.Last.Voyage.of.the.Demeter.2023.2160p.MA.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.mkv/"
+        },
+        "cast": [
+          {
+            "name": "Corey Hawkins",
+            "order": 0,
+            "role": "Clemens",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhabqxQgt2ouTrrrjpbTfL6YVH7C.jpg/"
+          },
+          {
+            "name": "Aisling Franciosi",
+            "order": 1,
+            "role": "Anna",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fg6qewxM4EEg02HUTLUw9KGkLdNj.jpg/"
+          },
+          {
+            "name": "David Dastmalchian",
+            "order": 2,
+            "role": "Wojchek",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fsF7yHISn8kuBy7T39gB5dMpObpk.jpg/"
+          },
+          {
+            "name": "Javier Botet",
+            "order": 3,
+            "role": "Dracula / Nosferatu",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnuVbt1oreUUPPR0MhKKL7y6i9Dt.jpg/"
+          },
+          {
+            "name": "Liam Cunningham",
+            "order": 4,
+            "role": "Captain Eliot",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fljmFT9zYqh4k2bmEcNU6rxoE7fW.jpg/"
+          },
+          {
+            "name": "Chris Walley",
+            "order": 5,
+            "role": "Abrams",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqASA1oFOwEvL7epg0HZkPE4SRwc.jpg/"
+          },
+          {
+            "name": "Jon Jon Briones",
+            "order": 6,
+            "role": "Joseph",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frMLbpS7OgWcrDMKcJxrfk54Lm56.jpg/"
+          },
+          {
+            "name": "Stefan Kapicic",
+            "order": 7,
+            "role": "Olgaren",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6BLiyw6Ibt57C2aDxfrbHsHtczf.jpg/"
+          },
+          {
+            "name": "Martin Furulund",
+            "order": 8,
+            "role": "Larsen",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6zGIHDbSMCITEmpmXi3JX5171Gh.jpg/"
+          },
+          {
+            "name": "Nikolai Nikolaeff",
+            "order": 9,
+            "role": "Petrofsky",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnNXhasub1J9IikQx53oKgnyEBYH.jpg/"
+          },
+          {
+            "name": "Woody Norman",
+            "order": 10,
+            "role": "Toby",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftAUT5x2RjxOOSmmaT7klf3G0sOx.jpg/"
+          },
+          {
+            "name": "Graham Turner",
+            "order": 11,
+            "role": "Constable",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fwVPbSiGUlTPS8fuTM3C2k8PWtQx.jpg/"
+          },
+          {
+            "name": "Andy Murray",
+            "order": 12,
+            "role": "Deputy Fisher",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdDV0e7WtrzoVT1nPYNEiGDvbw54.jpg/"
+          },
+          {
+            "name": "Nicolo Pasetti",
+            "order": 13,
+            "role": "Deputy Hirsch",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffrDjCKXnuiVp3EnOYIIj2FNf3nI.jpg/"
+          },
+          {
+            "name": "Christopher York",
+            "order": 14,
+            "role": "Fletcher - Whitby",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuQ3VZ7HFanwRHfjQjj83THx1EGM.jpg/"
+          },
+          {
+            "name": "Vladimir Cabak",
+            "order": 15,
+            "role": "Harbour Master"
+          },
+          {
+            "name": "Rudolf Danielewicz",
+            "order": 16,
+            "role": "Old Romani Wiseman"
+          },
+          {
+            "name": "Noureddine Farihi",
+            "order": 17,
+            "role": "One-Eyed Sailor",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7Q2VVUwIkLk697Jo4b08qbICeZF.jpg/"
+          },
+          {
+            "name": "Malcolm Galea",
+            "order": 18,
+            "role": "Sailor #1 - Card Game",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2facMGIXcRvgUkXG1ErIvQHL4brSD.jpg/"
+          },
+          {
+            "name": "Adam Shaw",
+            "order": 19,
+            "role": "Lightkeeper",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fz64T9K6vic4oK3PdMMCWvDs8jRJ.jpg/"
+          },
+          {
+            "name": "Jack Doggart",
+            "order": 20,
+            "role": "Son of Lightkeeper"
+          },
+          {
+            "name": "Joe Depasquale",
+            "order": 21,
+            "role": "Sailor #2 - Card Game"
+          },
+          {
+            "name": "Sally Reeve",
+            "order": 22,
+            "role": "Barmaid",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fth07Oczvdkb2wJSsbPoDnJ9LmOs.jpg/"
+          }
+        ],
+        "dateadded": "2024-01-05 21:58:04",
+        "director": ["André Øvredal"],
+        "fanart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f635910%2fmoviebackground%2fthe-last-voyage-of-the-demeter-64b2b267902ab.jpg/",
+        "file": "/Movies/Last Voyage of the Demeter (2023)/The.Last.Voyage.of.the.Demeter.2023.2160p.MA.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.mkv",
+        "genre": ["Horror", "Thriller"],
+        "label": "The Last Voyage of the Demeter",
+        "lastplayed": "",
+        "movieid": 566,
+        "mpaa": "Rated R",
+        "playcount": 0,
+        "rating": 6.894000053405762,
+        "resume": {
+          "position": 0,
+          "total": 0
+        },
+        "set": "",
+        "studio": ["Phoenix Pictures"],
+        "tag": [
+          "supernatural",
+          "based on novel or book",
+          "sacrifice",
+          "ship",
+          "vampire",
+          "dracula",
+          "gothic horror",
+          "1890s",
+          "excited",
+          "universal monsters"
+        ],
+        "title": "The Last Voyage of the Demeter",
+        "writer": ["Zak Olkewicz", "Bragi F. Schut"],
+        "year": 2023
+      },
+      {
+        "art": {
+          "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f792293%2fmoviebanner%2fdumb-money-65551c5a9ff06.jpg/",
+          "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f792293%2fhdmovieclearart%2fdumb-money-655b8cbcd8dd1.png/",
+          "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f792293%2fhdmovielogo%2fdumb-money-64d0e9cd8c482.png/",
+          "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f792293%2fmoviedisc%2fdumb-money-65551bf5d5d92.png/",
+          "fanart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f792293%2fmoviebackground%2fdumb-money-65551c37252f3.jpg/",
+          "icon": "image://DefaultVideo.png/",
+          "keyart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f792293%2fmovieposter%2fdumb-money-64d0e9f2f3eb1.jpg/",
+          "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f792293%2fmoviethumb%2fdumb-money-65551ca5b3914.jpg/",
+          "poster": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f792293%2fmovieposter%2fdumb-money-64d0e9e007952.jpg/",
+          "thumb": "image://video@%2fMovies%2fDumb%20Money%20(2023)%2fDumb.Money.2023.2160p.MA.WEB-DL.DDP5.1.HDR.H.265-FLUX.mkv/"
+        },
+        "cast": [
+          {
+            "name": "Paul Dano",
+            "order": 0,
+            "role": "Keith Gill",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fas6rmmWKgSrpHs0suNRSbQT8Raw.jpg/"
+          },
+          {
+            "name": "Shailene Woodley",
+            "order": 1,
+            "role": "Caroline Gill",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fy283nMcCx0BTcZ8rNZKLNpeq3UY.jpg/"
+          },
+          {
+            "name": "America Ferrera",
+            "order": 2,
+            "role": "Jenny Campbell",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7F84Lh2lKpvkM3EiOvqqvlOmw93.jpg/"
+          },
+          {
+            "name": "Pete Davidson",
+            "order": 3,
+            "role": "Kevin Gill",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ff3kubnZu3KgMniExcq9nJy8RwjW.jpg/"
+          },
+          {
+            "name": "Seth Rogen",
+            "order": 4,
+            "role": "Gabe Plotkin",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2dPFskUtoiG0xafsSEGl9Oz4teA.jpg/"
+          },
+          {
+            "name": "Myha'la",
+            "order": 5,
+            "role": "Riri",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhRc3igngt5dkpM08i0a3z7gkYWa.jpg/"
+          },
+          {
+            "name": "Talia Ryder",
+            "order": 6,
+            "role": "Harmony",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdq7nhIjhIFynugVdw3SmKaSY46B.jpg/"
+          },
+          {
+            "name": "Anthony Ramos",
+            "order": 7,
+            "role": "Marcos",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fseFm2fKh6reyZaaCg7DmRpodLCw.jpg/"
+          },
+          {
+            "name": "Nick Offerman",
+            "order": 8,
+            "role": "Ken Griffin",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftDzCAAJinH4Xt3lSKsajfiTyRK9.jpg/"
+          },
+          {
+            "name": "Sebastian Stan",
+            "order": 9,
+            "role": "Vlad Tenev",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnKZgixTbHFXpkzzIpMFdLX98GYh.jpg/"
+          },
+          {
+            "name": "Rushi Kota",
+            "order": 10,
+            "role": "Baiju Bhatt",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgmwvMy1qxSOCsAEjDbYHgUsUB9T.jpg/"
+          },
+          {
+            "name": "Kate Burton",
+            "order": 11,
+            "role": "Elaine Gill",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frHnt0gTvarr492I1ZIYg8VNBdPn.jpg/"
+          },
+          {
+            "name": "Clancy Brown",
+            "order": 12,
+            "role": "Steve Gill",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9RgzFqbmWBLVfq9wvyDo5UW8VT1.jpg/"
+          },
+          {
+            "name": "Vincent D'Onofrio",
+            "order": 13,
+            "role": "Steven A. Cohen",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqkyiLolEqYMGH25xD4sFIXAjZQB.jpg/"
+          },
+          {
+            "name": "Olivia Thirlby",
+            "order": 14,
+            "role": "Yaara Bank-Plotkin",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ff6j1Y3C4Td3bmo8xQRGxC7zKgu0.jpg/"
+          },
+          {
+            "name": "Dane DeHaan",
+            "order": 15,
+            "role": "Brad",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuwl0WKqHj6ahsriOEPLks84T70j.jpg/"
+          },
+          {
+            "name": "Larry Owens",
+            "order": 16,
+            "role": "Chris",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzlnIlYroeLXR8xwOqXxAlRWqK5z.jpg/"
+          },
+          {
+            "name": "Andrea Cárdenas",
+            "order": 17,
+            "role": "Roommate"
+          },
+          {
+            "name": "Noel Tyler Torres",
+            "order": 18,
+            "role": "Axl Campbell"
+          },
+          {
+            "name": "Nicolas Calero",
+            "order": 19,
+            "role": "Beau Campbell"
+          },
+          {
+            "name": "Gerardo Rodriguez",
+            "order": 20,
+            "role": "Marco's Father",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frvnGN3KCIzbdD3fd8K0mAO26SOT.jpg/"
+          },
+          {
+            "name": "Rosalie Berrido",
+            "order": 21,
+            "role": "Marco's Mother"
+          },
+          {
+            "name": "Zora Casebere",
+            "order": 22,
+            "role": "Journalist",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2DoGEiYk52uB4iT56UhR4fTgZY.jpg/"
+          },
+          {
+            "name": "Deniz Akdeniz",
+            "order": 23,
+            "role": "Briggsy",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2foDM0t1nWnGkl8ZpUTSq1rYrHLQu.jpg/"
+          },
+          {
+            "name": "Avery Cole",
+            "order": 24,
+            "role": "Waitress at Bar"
+          },
+          {
+            "name": "Denis Ooi",
+            "order": 25,
+            "role": "Duke",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fcPszRjPWwyLxyFxUD5q9aaVK7dT.jpg/"
+          },
+          {
+            "name": "Christina Brucato",
+            "order": 26,
+            "role": "Flight Attendant",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5yNLxKg9o3791d72j8XhalawFyE.jpg/"
+          },
+          {
+            "name": "David Faber",
+            "order": 27,
+            "role": "David Faber"
+          },
+          {
+            "name": "Khaya Fraites",
+            "order": 28,
+            "role": "Protestor #1"
+          },
+          {
+            "name": "Lucille Bhisitkul",
+            "order": 29,
+            "role": "Protestor #2"
+          },
+          {
+            "name": "Leyla Eden",
+            "order": 30,
+            "role": "Baby Daughter Gill"
+          },
+          {
+            "name": "Mason Eden",
+            "order": 31,
+            "role": "Baby Daughter Gill"
+          },
+          {
+            "name": "Anwar Hernandez",
+            "order": 32,
+            "role": "Photographer"
+          },
+          {
+            "name": "Anwar Wolf",
+            "order": 33,
+            "role": "Photographer",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxrFPDTxaxzE370M1Jx9is3lycTg.jpg/"
+          },
+          {
+            "name": "Brian David Tracy",
+            "order": 34,
+            "role": "Mr. Donaldson",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuNBq8a9xIk2XGdvhVEmSdpuZTiH.jpg/"
+          },
+          {
+            "name": "Ann Marie Yoo",
+            "order": 35,
+            "role": "Hospital Tech"
+          },
+          {
+            "name": "Marco Formosa",
+            "order": 36,
+            "role": "Hospital Administrator"
+          },
+          {
+            "name": "Tim Hayes",
+            "order": 37,
+            "role": "Norman Ashkenas",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuABxa4BKA3L9NB8uPsUFdLOFpmP.jpg/"
+          },
+          {
+            "name": "Dillon Geyselaers",
+            "order": 38,
+            "role": "Fan",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvy9uQ1oG1B9byd1ZDUqJ9XkKN4s.jpg/"
+          },
+          {
+            "name": "Bryan Burton",
+            "order": 39,
+            "role": "Process Server",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1eogCBrIVJ6ScKvEAFBfUTNZvA.jpg/"
+          },
+          {
+            "name": "Kristin Carey",
+            "order": 40,
+            "role": "Gabe's Lawyer",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fn3uBFJ2Zc7Eqf0k6be3bkqVC4lD.jpg/"
+          },
+          {
+            "name": "Ryan Hansinger",
+            "order": 41,
+            "role": "Gabe's PR Person"
+          },
+          {
+            "name": "Sal Rendino",
+            "order": 42,
+            "role": "Ken's Lawyer",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdwoMI6i0i8oGC08JkVFo6PynSeo.jpg/"
+          },
+          {
+            "name": "Stephen Reich",
+            "order": 43,
+            "role": "Ken's Lawyer #2",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f222zG9kYSR8uhbVZ15h84ksuSOT.jpg/"
+          },
+          {
+            "name": "Ryan Matthew White",
+            "order": 44,
+            "role": "Steve's Stretcher",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feSiTu7AbM8tUldoEO5QrwPDQEHG.jpg/"
+          },
+          {
+            "name": "Jordan Ryan Griffin",
+            "order": 45,
+            "role": "Gamestop Customer"
+          },
+          {
+            "name": "Teddy Day",
+            "order": 46,
+            "role": "Gabe's Son"
+          },
+          {
+            "name": "Anna Fikhman",
+            "order": 47,
+            "role": "Teacher"
+          },
+          {
+            "name": "Winslow Bright",
+            "order": 48,
+            "role": "Whispering Woman",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5H3MuzHfSUXVFN5V0i2fB5mkJFG.jpg/"
+          },
+          {
+            "name": "Alex Goncalves Coelho",
+            "order": 49,
+            "role": "Professor"
+          },
+          {
+            "name": "Charlize Orr",
+            "order": 50,
+            "role": "Baiju Bhatt Baby"
+          },
+          {
+            "name": "Chasity Orr",
+            "order": 51,
+            "role": "Baiju Bhatt Baby"
+          },
+          {
+            "name": "Faith Taylor",
+            "order": 52,
+            "role": "College Kid"
+          },
+          {
+            "name": "Mia Fowler",
+            "order": 53,
+            "role": "College Kid"
+          },
+          {
+            "name": "Zeshaun Saleem",
+            "order": 54,
+            "role": "College Kid"
+          },
+          {
+            "name": "Zac Branciforte",
+            "order": 55,
+            "role": "College Kid"
+          },
+          {
+            "name": "Benjamin Simpson",
+            "order": 56,
+            "role": "College Kid"
+          },
+          {
+            "name": "Brian Lucas",
+            "order": 57,
+            "role": "College Kid"
+          },
+          {
+            "name": "Christian Maverick White",
+            "order": 58,
+            "role": "College kid"
+          },
+          {
+            "name": "Dean Simone",
+            "order": 59,
+            "role": "Congressman"
+          },
+          {
+            "name": "Kirk Moody",
+            "order": 60,
+            "role": "Bald Bearded Guy"
+          },
+          {
+            "name": "Dustin Wayne",
+            "order": 61,
+            "role": "Long Hair Guy"
+          },
+          {
+            "name": "Merrick Hanna",
+            "order": 62,
+            "role": "Skit Guy",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fiEmWvlZXe9Fl7Qrmm6YvpW29Qhq.jpg/"
+          },
+          {
+            "name": "Artoun Nazareth",
+            "order": 63,
+            "role": "Guy with a Hat",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftceyJGjj2jzDFiCHxcyJ7DBEeK8.jpg/"
+          },
+          {
+            "name": "Alexander Jo",
+            "order": 64,
+            "role": "Guy with a Hoodie"
+          },
+          {
+            "name": "Marcus Briddell",
+            "order": 65,
+            "role": "Stop the Game Guy"
+          },
+          {
+            "name": "Kaliswa Brewster",
+            "order": 66,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fj1Q359eGbtH12idU9jXbdLwYOlW.jpg/"
+          },
+          {
+            "name": "Chase Fein",
+            "order": 67,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Dann Fink",
+            "order": 68,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Christopher Gray",
+            "order": 69,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyXdXksS25Nmcmx67LUIcITBbM61.jpg/"
+          },
+          {
+            "name": "Jess Kaliban",
+            "order": 70,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Trevor McGhie",
+            "order": 71,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Turna Mete",
+            "order": 72,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Richie Moriarty",
+            "order": 73,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3cI8EzcZCeR5mzbjQG4xBVyTXTp.jpg/"
+          },
+          {
+            "name": "Joanna Parson",
+            "order": 74,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Armando Riesco",
+            "order": 75,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fp6lYNZPYmyW83dgW43bhuvkFIRv.jpg/"
+          },
+          {
+            "name": "Rebecca Soler",
+            "order": 76,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8nY245g2Cxn1pR7yuCYoC9u4X52.jpg/"
+          }
+        ],
+        "dateadded": "2024-01-05 21:47:33",
+        "director": ["Craig Gillespie"],
+        "fanart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f792293%2fmoviebackground%2fdumb-money-65551c37252f3.jpg/",
+        "file": "/Movies/Dumb Money (2023)/Dumb.Money.2023.2160p.MA.WEB-DL.DDP5.1.HDR.H.265-FLUX.mkv",
+        "genre": ["History", "Comedy", "Drama"],
+        "label": "Dumb Money",
+        "lastplayed": "",
+        "movieid": 565,
+        "mpaa": "Rated R",
+        "playcount": 0,
+        "rating": 6.7210001945495605,
+        "resume": {
+          "position": 0,
+          "total": 0
+        },
+        "set": "",
+        "studio": ["Black Bear Pictures"],
+        "tag": [
+          "based on true story",
+          "2020s",
+          "social media",
+          "massachusetts",
+          "stock market",
+          "dramedy",
+          "investing",
+          "investment",
+          "vlogger",
+          "brother brother relationship",
+          "social media influencer",
+          "gamestop",
+          "reddit"
+        ],
+        "title": "Dumb Money",
+        "writer": ["Lauren Schuker Blum", "Rebecca Angelo"],
+        "year": 2023
+      },
+      {
+        "art": {
+          "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f515195%2fmoviebanner%2fyesterday-5d79ed264d497.jpg/",
+          "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f515195%2fhdmovieclearart%2fyesterday-5d7d4468371b9.png/",
+          "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f515195%2fhdmovielogo%2fyesterday-5cf28d5e7e94a.png/",
+          "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f515195%2fmoviedisc%2fyesterday-5d903c60ce9aa.png/",
+          "fanart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f515195%2fmoviebackground%2fyesterday-5d79ed1b540d2.jpg/",
+          "icon": "image://DefaultVideo.png/",
+          "keyart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f515195%2fmovieposter%2fyesterday-5e8cd35951c2b.jpg/",
+          "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f515195%2fmoviethumb%2fyesterday-5d79ed35ed89c.jpg/",
+          "poster": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f515195%2fmovieposter%2fyesterday-5d79ede7ec9f7.jpg/",
+          "thumb": "image://video@%2fMovies%2fYesterday%20(2019)%2fYesterday.2019.1080p-%5bYTS.LT%5d.mp4/"
+        },
+        "cast": [
+          {
+            "name": "Himesh Patel",
+            "order": 0,
+            "role": "Jack Malik",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffC6diZ0i3Epot9dRl7b2SSegf4L.jpg/"
+          },
+          {
+            "name": "Lily James",
+            "order": 1,
+            "role": "Ellie Appleton",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2w8tMEdCxBXB44X05RQDC2Kvbap.jpg/"
+          },
+          {
+            "name": "Sophia di Martino",
+            "order": 2,
+            "role": "Carol",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqZdFp18btpQJfDoknxr7DgfRpcB.jpg/"
+          },
+          {
+            "name": "Ellise Chappell",
+            "order": 3,
+            "role": "Lucy",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faiEIDSUMLY8fZDxI3ODPJ75p9Ns.jpg/"
+          },
+          {
+            "name": "Meera Syal",
+            "order": 4,
+            "role": "Sheila Malik",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxjndtTD7lIvuCSMtAYBQtTVwMGV.jpg/"
+          },
+          {
+            "name": "Harry Michell",
+            "order": 5,
+            "role": "Nick",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxfoeGbAIdnx9qmAoGgJcpYko91V.jpg/"
+          },
+          {
+            "name": "Vincent Franklin",
+            "order": 6,
+            "role": "Brian",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyVUQNN5skc1eK1UwqeHpT1Vn1l9.jpg/"
+          },
+          {
+            "name": "Joel Fry",
+            "order": 7,
+            "role": "Rocky",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4nEKEWJpaTHncCTv6zeP98V0qGI.jpg/"
+          },
+          {
+            "name": "Michael Kiwanuka",
+            "order": 8,
+            "role": "Michael Kiwanuka",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkDIaM52oulCWq3xnYe9iaBiN4M7.jpg/"
+          },
+          {
+            "name": "Karma Sood",
+            "order": 9,
+            "role": "Young Jack",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9xbY2v4X47hST2VcQKH0c3xM6S.jpg/"
+          },
+          {
+            "name": "Gus Brown",
+            "order": 10,
+            "role": "Marcus the Dentist",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3a5gaKThRbADd3cHZDdSDGLndr6.jpg/"
+          },
+          {
+            "name": "Sanjeev Bhaskar",
+            "order": 11,
+            "role": "Jed Malik",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgPFoGWj5VPm4IZVn9sMdBicVh2E.jpg/"
+          },
+          {
+            "name": "Karl Theobald",
+            "order": 12,
+            "role": "Terry",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fwOOSjkgOnV2T7mfFVNgxMfa5XD3.jpg/"
+          },
+          {
+            "name": "Alexander Arnold",
+            "order": 13,
+            "role": "Gavin",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpiGO9wUWNL2e3Y0bvdQ7mPiZ0GG.jpg/"
+          },
+          {
+            "name": "Dominic Coleman",
+            "order": 14,
+            "role": "Ipswich TV Host",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpUwQtLSoGjrXffVPrxGZCyTQ4wC.jpg/"
+          },
+          {
+            "name": "Ed Sheeran",
+            "order": 15,
+            "role": "Ed Sheeran",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fw7zbWC9AV0WfIEl8L38otal7mwS.jpg/"
+          },
+          {
+            "name": "Jane Seaborn",
+            "order": 16,
+            "role": "Air Hostess"
+          },
+          {
+            "name": "Nic Minns",
+            "order": 17,
+            "role": "Videographer"
+          },
+          {
+            "name": "Maryana Spivak",
+            "order": 18,
+            "role": "Alexa (Russian Stage Manager)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frCCiNJW5CROYGSJtPbGsEUN1Ehe.jpg/"
+          },
+          {
+            "name": "Justin Edwards",
+            "order": 19,
+            "role": "Leo (Russian Stranger)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvhAAVpzdswyq95pmVyKv9PsQPyQ.jpg/"
+          },
+          {
+            "name": "Kate McKinnon",
+            "order": 20,
+            "role": "Debra Hammer",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2cNetzianFcxPQbyOQnkAIkKUZE.jpg/"
+          },
+          {
+            "name": "Javone Prince",
+            "order": 21,
+            "role": "Hans (Music Producer)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbyUv4ce1zA2irZlitzlGUbtOS86.jpg/"
+          },
+          {
+            "name": "Camilla Rutherford",
+            "order": 22,
+            "role": "Hilary",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frVoFC3VLv5JWsBN0mlyTLrF1Zg5.jpg/"
+          },
+          {
+            "name": "Sarah Lancashire",
+            "order": 23,
+            "role": "Liz (Liverpool Stranger)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faDYVBAAbUgPyZ3qCyQnEfR807Np.jpg/"
+          },
+          {
+            "name": "Rachael Elizabeth",
+            "order": 24,
+            "role": "Hotel Waitress"
+          },
+          {
+            "name": "Jimmy Gallagher",
+            "order": 25,
+            "role": "Hotel Waiter"
+          },
+          {
+            "name": "Jaimie Kollmer",
+            "order": 26,
+            "role": "Young Ellie"
+          },
+          {
+            "name": "Sophie Mensah",
+            "order": 27,
+            "role": "Hotel Front Desk"
+          },
+          {
+            "name": "Helena Devereux",
+            "order": 28,
+            "role": "Commuter (Lime Street)"
+          },
+          {
+            "name": "Julian Feria",
+            "order": 29,
+            "role": "Commuter (Lime Street)"
+          },
+          {
+            "name": "Lamorne Morris",
+            "order": 30,
+            "role": "Head of Marketing",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f622IJYtqIaRBBMP4QFo3dbPSOWE.jpg/"
+          },
+          {
+            "name": "Craig Rowin",
+            "order": 31,
+            "role": "Marketing Executive",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbeomW5OdB8oa9GKBCla9MCk2hZy.jpg/"
+          },
+          {
+            "name": "James Corden",
+            "order": 32,
+            "role": "James Corden",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxGB0gfZ48M27gQjjL7inJIh1Pqj.jpg/"
+          },
+          {
+            "name": "Cristina Dohmen",
+            "order": 33,
+            "role": "Local Newscaster",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fmvlAWWZjq9OISpv3T6xAZbumrV6.jpg/"
+          },
+          {
+            "name": "Elizabeth Berrington",
+            "order": 34,
+            "role": "Hazel",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fwFz71bIKTlQoa8v1s243TIh5wUm.jpg/"
+          },
+          {
+            "name": "Clementine Webb",
+            "order": 35,
+            "role": "Interviewer"
+          },
+          {
+            "name": "Diana Pauline",
+            "order": 36,
+            "role": "Interviewer"
+          },
+          {
+            "name": "William McGeough",
+            "order": 37,
+            "role": "Interviewer"
+          },
+          {
+            "name": "Díana Bermudez",
+            "order": 38,
+            "role": "Interviewer",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4g1J1lAjrH62nMB7BUEIlXZJ6UW.jpg/"
+          },
+          {
+            "name": "Sunny Yeo",
+            "order": 39,
+            "role": "Interviewer",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fsuVnbRMPFq9Tt0AY4Sv7HY1gn44.jpg/"
+          },
+          {
+            "name": "Charlie Hannah",
+            "order": 40,
+            "role": "Guitarist Keyboards (Jack's Band)"
+          },
+          {
+            "name": "Xav Clarke",
+            "order": 41,
+            "role": "Guitarist (Jack's Band)"
+          },
+          {
+            "name": "Oliver Booker",
+            "order": 42,
+            "role": "Drummer (Jack's Band)"
+          },
+          {
+            "name": "Michele Stodart",
+            "order": 43,
+            "role": "Bass Guitarist (Jack's Band)"
+          },
+          {
+            "name": "Michael Jablonka",
+            "order": 44,
+            "role": "Guitarist (Michael Kiwanuka's Band)"
+          },
+          {
+            "name": "Steve Pringle",
+            "order": 45,
+            "role": "Keyboards (Michael Kiwanuka's Band)"
+          },
+          {
+            "name": "Lewis Wright",
+            "order": 46,
+            "role": "Drummer (Michael Kiwanuka's Band)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f77wKhHVzrs0jEAy8oL8IaMWyuQW.jpg/"
+          },
+          {
+            "name": "Alex Bonfanti",
+            "order": 47,
+            "role": "Bass Guitarist (Michael Kiwanuka's Band)"
+          },
+          {
+            "name": "Ifeoluwa Ogunjobi",
+            "order": 48,
+            "role": "Trumpet (Brass Band)"
+          },
+          {
+            "name": "Camilla George",
+            "order": 49,
+            "role": "Saxophone (Brass Band)"
+          },
+          {
+            "name": "Hannah Mbuya",
+            "order": 50,
+            "role": "Tuba (Brass Band)"
+          },
+          {
+            "name": "Richie Seivwright",
+            "order": 51,
+            "role": "Trombone (Brass Band)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnH34hICSy963uNZfzdgAQcu9d9t.jpg/"
+          },
+          {
+            "name": "Chilli-Rae McCormack",
+            "order": 52,
+            "role": "Ukulele Band"
+          },
+          {
+            "name": "Lucie Arnoux",
+            "order": 53,
+            "role": "Ukulele Band"
+          },
+          {
+            "name": "Jelly Cleaver",
+            "order": 54,
+            "role": "Ukulele Band"
+          },
+          {
+            "name": "Daisy Chute",
+            "order": 55,
+            "role": "Ukulele Band"
+          },
+          {
+            "name": "Sandra-Mae Luijkx",
+            "order": 56,
+            "role": "Ukulele Band"
+          },
+          {
+            "name": "Robert Carlyle",
+            "order": 57,
+            "role": "John Lennon (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyOdTewlmmvxqDaKbWJ7eAk0ULCf.jpg/"
+          },
+          {
+            "name": "David Lautman",
+            "order": 58,
+            "role": "Ringo Starr (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxzBDJKSjSDvrfCFQaHzhZZ4Dyp6.jpg/"
+          },
+          {
+            "name": "K.C. Wolf",
+            "order": 59,
+            "role": "Paul McCartney (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyvjj4tqGAORFUqLKE4AMMnxMDcl.jpg/"
+          },
+          {
+            "name": "Hiten Patel",
+            "order": 60,
+            "role": "Security Guard (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6Izl7RXweJAcjIU6KoGI60JERKE.jpg/"
+          }
+        ],
+        "dateadded": "2023-12-02 20:34:08",
+        "director": ["Danny Boyle"],
+        "fanart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f515195%2fmoviebackground%2fyesterday-5d79ed1b540d2.jpg/",
+        "file": "/Movies/Yesterday (2019)/Yesterday.2019.1080p-[YTS.LT].mp4",
+        "genre": ["Comedy", "Fantasy", "Music", "Romance"],
+        "label": "Yesterday",
+        "lastplayed": "",
+        "movieid": 569,
+        "mpaa": "Rated PG-13",
+        "playcount": 0,
+        "rating": 6.704999923706055,
+        "resume": {
+          "position": 0,
+          "total": 0
+        },
+        "set": "",
+        "studio": ["Working Title Films"],
+        "tag": [
+          "moral dilemma",
+          "musician",
+          "united kingdom",
+          "rock concert",
+          "pop singer",
+          "liverpool, england",
+          "music festival",
+          "alternative reality"
+        ],
+        "title": "Yesterday",
+        "writer": ["Richard Curtis"],
+        "year": 2019
+      },
+      {
+        "art": {
+          "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f614479%2fmoviebanner%2finsidious-the-red-door-64c9a0c0172fe.jpg/",
+          "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f614479%2fhdmovielogo%2finsidious-the-red-door-64947d3d68e60.png/",
+          "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f614479%2fmoviedisc%2finsidious-the-red-door-64cf5b0032ec3.png/",
+          "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f614479%2fmoviebackground%2finsidious-the-red-door-64947d5d7595b.jpg/",
+          "icon": "image://DefaultVideo.png/",
+          "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f614479%2fmovieposter%2finsidious-the-red-door-64cdfa8e62d26.jpg/",
+          "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f614479%2fmoviethumb%2finsidious-the-red-door-64cf5b1432780.jpg/",
+          "poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f614479%2fmovieposter%2finsidious-the-red-door-64b41dae07d63.jpg/",
+          "set.banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f228446%2fmoviebanner%2finsidious-collection-54c3e49783e60.jpg/",
+          "set.clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f228446%2fhdmovieclearart%2finsidious-collection-559aa5c09f3a3.png/",
+          "set.clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f228446%2fhdmovielogo%2finsidious-collection-5324e765c41f3.png/",
+          "set.fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f228446%2fmoviebackground%2finsidious-collection-5b3eaaa2431e6.jpg/",
+          "set.keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f228446%2fmovieposter%2finsidious-collection-54b599d43b5ee.jpg/",
+          "set.landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f228446%2fmoviethumb%2finsidious-collection-557ada05f01ac.jpg/",
+          "set.poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f228446%2fmovieposter%2finsidious-collection-56762659466a0.jpg/",
+          "thumb": "image://video@%2fMovies%2fInsidious%3a%20The%20Red%20Door%20(2023)%2fInsidious.The.Red.Door.2023.2160p.4K.WEB.x265.10bit.AAC5.1-%5bYTS.MX%5d.mkv/"
+        },
+        "cast": [
+          {
+            "name": "Ty Simpkins",
+            "order": 0,
+            "role": "Dalton Lambert",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fiGPK0aZeKBkyBAjg7zl7AoZ7r2l.jpg/"
+          },
+          {
+            "name": "Patrick Wilson",
+            "order": 1,
+            "role": "Josh Lambert",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftc1ezEfIY8BhCy85svOUDtpBFPt.jpg/"
+          },
+          {
+            "name": "Rose Byrne",
+            "order": 2,
+            "role": "Renai Lambert",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4oQWCLK7gd6RNKF0WJipJo7TyFP.jpg/"
+          },
+          {
+            "name": "Lin Shaye",
+            "order": 3,
+            "role": "Elise Rainier",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faL87Za52elH81zMiXQn5C7AXAeg.jpg/"
+          },
+          {
+            "name": "Sinclair Daniel",
+            "order": 4,
+            "role": "Chris Winslow",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2flvlGYC70bTyfbRLbj4b8YyMk4Xi.jpg/"
+          },
+          {
+            "name": "Hiam Abbass",
+            "order": 5,
+            "role": "Professor Armagan",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhkzC5aJKTiuCchBpybaHDVngYZW.jpg/"
+          },
+          {
+            "name": "Andrew Astor",
+            "order": 6,
+            "role": "Foster Lambert",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8rXmfA1QfycVOq4gQeSMHpacGtX.jpg/"
+          },
+          {
+            "name": "Juliana Davies",
+            "order": 7,
+            "role": "Kali Lambert",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzqMiuHWScYXCgD7SV9UcFx0NvyM.jpg/"
+          },
+          {
+            "name": "Steve Coulter",
+            "order": 8,
+            "role": "Carl",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5bK6a5Cfy5DxVoNpzt4nbhUUW85.jpg/"
+          },
+          {
+            "name": "Peter Dager",
+            "order": 9,
+            "role": "Nick the Dick"
+          },
+          {
+            "name": "Joseph Bishara",
+            "order": 10,
+            "role": "Lipstick Demon",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fjkFmkZcd16cEX2yGFNNAsNJyN5U.jpg/"
+          },
+          {
+            "name": "Angus Sampson",
+            "order": 11,
+            "role": "Tucker",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8EX6ul2zyVUg91oDvI3RpYS5szV.jpg/"
+          },
+          {
+            "name": "Leigh Whannell",
+            "order": 12,
+            "role": "Specs",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fwvoTbsROOHfCqJ3Voe9zpal429L.jpg/"
+          },
+          {
+            "name": "Justin Sturgis",
+            "order": 13,
+            "role": "Alec Anderson"
+          },
+          {
+            "name": "David Call",
+            "order": 14,
+            "role": "Smash Face / Ben Burton",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2flcfAlaiVRjpmb5OXtrso0eH8br.jpg/"
+          },
+          {
+            "name": "Stephen Gray",
+            "order": 15,
+            "role": "Sick Kid"
+          },
+          {
+            "name": "Robin S. Walker",
+            "order": 16,
+            "role": "Supervisor Robbins"
+          },
+          {
+            "name": "Bridget Kim",
+            "order": 17,
+            "role": "Sorority Girl #1"
+          },
+          {
+            "name": "Logan Wilson",
+            "order": 18,
+            "role": "Paige"
+          },
+          {
+            "name": "Kasjan Wilson",
+            "order": 19,
+            "role": "Young Dalton / Young Josh"
+          },
+          {
+            "name": "Mary Looram",
+            "order": 20,
+            "role": "Mourner"
+          },
+          {
+            "name": "Adrian Acosta",
+            "order": 21,
+            "role": "Frat Boy #1"
+          },
+          {
+            "name": "AJ Dyer",
+            "order": 22,
+            "role": "Frat Bro #2"
+          },
+          {
+            "name": "Kalin Wilson",
+            "order": 23,
+            "role": "Server Frat Boy"
+          },
+          {
+            "name": "E. Roger Mitchell",
+            "order": 24,
+            "role": "Dr. Bower",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqdcwrdA1IYvuRe0A2abSvzVLZVS.jpg/"
+          },
+          {
+            "name": "Dagmara Domińczyk",
+            "order": 25,
+            "role": "Priest (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzoZ8cJNOgAsU1rxSbhhziSTOJbZ.jpg/"
+          },
+          {
+            "name": "Tom Toland",
+            "order": 26,
+            "role": "Student (credit only)"
+          },
+          {
+            "name": "Elaine Apruzzese",
+            "order": 27,
+            "role": "Pedestrian / Driver (uncredited)"
+          },
+          {
+            "name": "Suki Úna Rae",
+            "order": 28,
+            "role": "Art Student (uncredited)"
+          },
+          {
+            "name": "Desi Ramos",
+            "order": 29,
+            "role": "Student (uncredited)"
+          },
+          {
+            "name": "Victorya Danylko-Petrovskaya",
+            "order": 30,
+            "role": "Sorority Girl (uncredited)"
+          },
+          {
+            "name": "Tom Fitzpatrick",
+            "order": 31,
+            "role": "Bride in Black / Old Parker Crane (archive footage) (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7OUqO0jvZfm5tSEWT6Cscooqsdp.jpg/"
+          },
+          {
+            "name": "Barbara Hershey",
+            "order": 32,
+            "role": "Lorraine Lambert (archive footage) (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6swwfge3HlvyBVRSNwroFtMcgNB.jpg/"
+          }
+        ],
+        "dateadded": "2023-10-30 19:55:23",
+        "director": ["Patrick Wilson"],
+        "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f614479%2fmoviebackground%2finsidious-the-red-door-64947d5d7595b.jpg/",
+        "file": "/Movies/Insidious: The Red Door (2023)/Insidious.The.Red.Door.2023.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv",
+        "genre": ["Horror", "Mystery", "Thriller"],
+        "label": "Insidious: The Red Door",
+        "lastplayed": "",
+        "movieid": 558,
+        "mpaa": "Rated PG-13",
+        "playcount": 0,
+        "rating": 6.7829999923706055,
+        "resume": {
+          "position": 0,
+          "total": 0
+        },
+        "set": "Insidious Collection",
+        "studio": ["Blumhouse Productions"],
+        "tag": [
+          "sequel",
+          "insidious",
+          "demon",
+          "franchise",
+          "supernatural horror",
+          "evil spirits",
+          "directorial debut",
+          "fifth part"
+        ],
+        "title": "Insidious: The Red Door",
+        "writer": ["Scott Teems"],
+        "year": 2023
+      },
+      {
+        "art": {
+          "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f72571%2fmoviebanner%2fparanormal-activity-3-53554aa4e7244.jpg/",
+          "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f72571%2fhdmovieclearart%2fparanormal-activity-3-53554a8475110.png/",
+          "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f72571%2fhdmovielogo%2fparanormal-activity-3-53554a74e760e.png/",
+          "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f72571%2fmoviedisc%2fparanormal-activity-3-517485655af0b.png/",
+          "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f72571%2fmoviebackground%2fparanormal-activity-3-56b62229233a5.jpg/",
+          "icon": "image://DefaultVideo.png/",
+          "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f72571%2fmoviethumb%2fparanormal-activity-3-53554ab064c7b.jpg/",
+          "poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f72571%2fmovieposter%2fparanormal-activity-3-53554c8d541be.jpg/",
+          "set.banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fmoviebanner%2fparanormal-activity-collection-53548daf6baa3.jpg/",
+          "set.clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fhdmovieclearart%2fparanormal-activity-collection-5353ffc873287.png/",
+          "set.clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fhdmovielogo%2fparanormal-activity-collection-520a89ced61f2.png/",
+          "set.fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fmoviebackground%2fparanormal-activity-collection-5353ffec96736.jpg/",
+          "set.landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fmoviethumb%2fparanormal-activity-collection-53540005863cd.jpg/",
+          "set.poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fmovieposter%2fparanormal-activity-collection-5353ff370107c.jpg/",
+          "thumb": "image://video@%2fMovies%2fParanormal%20Activity%203%20(2011)%2fParanormal.Activity.3.2011.1080p.AAC5.1-%5bYTS.MX%5d.mp4/"
+        },
+        "cast": [
+          {
+            "name": "Katie Featherston",
+            "order": 0,
+            "role": "Katie",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzfoprDirNsWxvxDKvRzUyPXKGR6.jpg/"
+          },
+          {
+            "name": "Sprague Grayden",
+            "order": 1,
+            "role": "Kristi Rey",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdhWyIHiG9fYMkcd3pUK3Q7kFm37.jpg/"
+          },
+          {
+            "name": "Lauren Bittner",
+            "order": 2,
+            "role": "Julie",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1rJdHySYguJMogq39eSJCFQWwWy.jpg/"
+          },
+          {
+            "name": "Christopher Nicholas Smith",
+            "order": 3,
+            "role": "Dennis",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faNgDvTUySxZN2SfHQLzhPs5oncz.jpg/"
+          },
+          {
+            "name": "Chloe Csengery",
+            "order": 4,
+            "role": "Young Katie",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fjEXZlunoXQv1SVXVmCnRwZj4auv.jpg/"
+          },
+          {
+            "name": "Jessica Tyler Brown",
+            "order": 5,
+            "role": "Young Kristi",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fg4hKYEa0yL3gQwpbRY6bmGvnzCy.jpg/"
+          },
+          {
+            "name": "Marilyn Alex",
+            "order": 6,
+            "role": "Creepy Lady",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqxnL3AhFdlIBIy79wziTcViEX5H.jpg/"
+          },
+          {
+            "name": "Dustin Ingram",
+            "order": 7,
+            "role": "Randy Rosen",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4jH3kSG3JCcjWtbIQYkGmU1Cugc.jpg/"
+          },
+          {
+            "name": "Jessica Berger",
+            "order": 8,
+            "role": "Kid"
+          },
+          {
+            "name": "Maria Olsen",
+            "order": 9,
+            "role": "Creepy Lady",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f31hwhM0rvVuDGDmY9Duh7nHmKvq.jpg/"
+          },
+          {
+            "name": "Hallie Foote",
+            "order": 10,
+            "role": "Grandma Lois",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fahyy93tNJ3rx77dtIm7OSWRu9tD.jpg/"
+          },
+          {
+            "name": "William Juan Prieto",
+            "order": 11,
+            "role": "Hunter"
+          },
+          {
+            "name": "Jackson Xenia Prieto",
+            "order": 12,
+            "role": "Hunter"
+          },
+          {
+            "name": "Paitoon Cheng",
+            "order": 13,
+            "role": "Ida"
+          },
+          {
+            "name": "Johanna Braddy",
+            "order": 14,
+            "role": "Lisa",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2aZpXth2OupCbG7jMjq3d81ych6.jpg/"
+          },
+          {
+            "name": "Brian Boland",
+            "order": 15,
+            "role": "Daniel",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1sW3fZlsI1W0ctHUQXEC3hJkBQ4.jpg/"
+          },
+          {
+            "name": "Micah Sloat",
+            "order": 16,
+            "role": "(archive footage)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgF7ndGTcfBo7FMCaycY4ZTxAwxJ.jpg/"
+          },
+          {
+            "name": "Molly Ephraim",
+            "order": 17,
+            "role": "(archive footage)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fquhI60c6Z2nzZBpOJNjK4bvlPK4.jpg/"
+          }
+        ],
+        "dateadded": "2023-10-30 19:07:18",
+        "director": ["Henry Joost", "Ariel Schulman"],
+        "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f72571%2fmoviebackground%2fparanormal-activity-3-56b62229233a5.jpg/",
+        "file": "/Movies/Paranormal Activity 3 (2011)/Paranormal.Activity.3.2011.1080p.AAC5.1-[YTS.MX].mp4",
+        "genre": ["Horror", "Mystery"],
+        "label": "Paranormal Activity 3",
+        "lastplayed": "",
+        "movieid": 561,
+        "mpaa": "Rated R",
+        "playcount": 0,
+        "rating": 5.900000095367432,
+        "resume": {
+          "position": 0,
+          "total": 0
+        },
+        "set": "Paranormal Activity Collection",
+        "studio": ["Paramount"],
+        "tag": [
+          "sibling relationship",
+          "sequel",
+          "found footage",
+          "prequel",
+          "witch",
+          "haunting",
+          "family secrets",
+          "paranormal activity"
+        ],
+        "title": "Paranormal Activity 3",
+        "writer": ["Christopher Landon"],
+        "year": 2011
+      },
+      {
+        "art": {
+          "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41436%2fmoviebanner%2fparanormal-activity-2-5355536548c49.jpg/",
+          "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41436%2fhdmovieclearart%2fparanormal-activity-2-53548f400db66.png/",
+          "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41436%2fhdmovielogo%2fparanormal-activity-2-5355534611c12.png/",
+          "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41436%2fmoviedisc%2fparanormal-activity-2-5174851fb5237.png/",
+          "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41436%2fmoviebackground%2fparanormal-activity-2-53555357d9480.jpg/",
+          "icon": "image://DefaultVideo.png/",
+          "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41436%2fmoviethumb%2fparanormal-activity-2-53548f52addfc.jpg/",
+          "poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41436%2fmovieposter%2fparanormal-activity-2-52fbd1d773ecb.jpg/",
+          "set.banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fmoviebanner%2fparanormal-activity-collection-53548daf6baa3.jpg/",
+          "set.clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fhdmovieclearart%2fparanormal-activity-collection-5353ffc873287.png/",
+          "set.clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fhdmovielogo%2fparanormal-activity-collection-520a89ced61f2.png/",
+          "set.fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fmoviebackground%2fparanormal-activity-collection-5353ffec96736.jpg/",
+          "set.landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fmoviethumb%2fparanormal-activity-collection-53540005863cd.jpg/",
+          "set.poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fmovieposter%2fparanormal-activity-collection-5353ff370107c.jpg/",
+          "thumb": "image://video@%2fMovies%2fParanormal%20Activity%202%20(2010)%2fParanormal.Activity.2.2010.1080p.AAC5.1-%5bYTS.MX%5d.mp4/"
+        },
+        "cast": [
+          {
+            "name": "Sprague Grayden",
+            "order": 0,
+            "role": "Kristi Rey",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdhWyIHiG9fYMkcd3pUK3Q7kFm37.jpg/"
+          },
+          {
+            "name": "Brian Boland",
+            "order": 1,
+            "role": "Daniel Rey",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1sW3fZlsI1W0ctHUQXEC3hJkBQ4.jpg/"
+          },
+          {
+            "name": "Molly Ephraim",
+            "order": 2,
+            "role": "Ali Rey",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fquhI60c6Z2nzZBpOJNjK4bvlPK4.jpg/"
+          },
+          {
+            "name": "Katie Featherston",
+            "order": 3,
+            "role": "Katie",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzfoprDirNsWxvxDKvRzUyPXKGR6.jpg/"
+          },
+          {
+            "name": "Micah Sloat",
+            "order": 4,
+            "role": "Micah",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgF7ndGTcfBo7FMCaycY4ZTxAwxJ.jpg/"
+          },
+          {
+            "name": "Seth Ginsberg",
+            "order": 5,
+            "role": "Brad"
+          },
+          {
+            "name": "Vivis Cortez",
+            "order": 6,
+            "role": "Martine",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuePr2CzidUWy4cr0zH0gQgzE6xh.jpg/"
+          },
+          {
+            "name": "William Juan Prieto",
+            "order": 7,
+            "role": "Hunter Rey"
+          },
+          {
+            "name": "Jackson Xenia Prieto",
+            "order": 8,
+            "role": "Hunter Rey"
+          },
+          {
+            "name": "David Bierend",
+            "order": 9,
+            "role": "Surveillance Camera Expert"
+          },
+          {
+            "name": "Emily Brobst",
+            "order": 10,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvc9Y7bM9PnXvt5D5BuozJvP5Gzd.jpg/"
+          }
+        ],
+        "dateadded": "2023-10-30 19:07:04",
+        "director": ["Tod Williams"],
+        "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41436%2fmoviebackground%2fparanormal-activity-2-53555357d9480.jpg/",
+        "file": "/Movies/Paranormal Activity 2 (2010)/Paranormal.Activity.2.2010.1080p.AAC5.1-[YTS.MX].mp4",
+        "genre": ["Horror", "Mystery"],
+        "label": "Paranormal Activity 2",
+        "lastplayed": "",
+        "movieid": 560,
+        "mpaa": "Rated R",
+        "playcount": 0,
+        "rating": 5.742000102996826,
+        "resume": {
+          "position": 0,
+          "total": 0
+        },
+        "set": "Paranormal Activity Collection",
+        "studio": ["Paramount"],
+        "tag": [
+          "duringcreditsstinger",
+          "found footage",
+          "haunting",
+          "demonic possession",
+          "ouija board"
+        ],
+        "title": "Paranormal Activity 2",
+        "writer": ["Christopher Landon", "Tom Pabst", "Michael R. Perry"],
+        "year": 2010
+      },
+      {
+        "art": {
+          "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f82990%2fmoviebanner%2fparanormal-activity-4-51f30dcdadf3d.jpg/",
+          "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f82990%2fhdmovieclearart%2fparanormal-activity-4-52a670e61e4bf.png/",
+          "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f82990%2fhdmovielogo%2fparanormal-activity-4-51225ff43d95a.png/",
+          "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f82990%2fmoviedisc%2fparanormal-activity-4-5174858ab2374.png/",
+          "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f82990%2fmoviebackground%2fparanormal-activity-4-56b622f64ddba.jpg/",
+          "icon": "image://DefaultVideo.png/",
+          "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f82990%2fmoviethumb%2fparanormal-activity-4-51f30dd788eb3.jpg/",
+          "poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f82990%2fmovieposter%2fparanormal-activity-4-52fbd24379a2b.jpg/",
+          "set.banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fmoviebanner%2fparanormal-activity-collection-53548daf6baa3.jpg/",
+          "set.clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fhdmovieclearart%2fparanormal-activity-collection-5353ffc873287.png/",
+          "set.clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fhdmovielogo%2fparanormal-activity-collection-520a89ced61f2.png/",
+          "set.fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fmoviebackground%2fparanormal-activity-collection-5353ffec96736.jpg/",
+          "set.landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fmoviethumb%2fparanormal-activity-collection-53540005863cd.jpg/",
+          "set.poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f41437%2fmovieposter%2fparanormal-activity-collection-5353ff370107c.jpg/",
+          "thumb": "image://video@%2fMovies%2fParanormal%20Activity%204%20(2012)%2fParanormal.Activity.4.2012.Unrated.1080p.mp4/"
+        },
+        "cast": [
+          {
+            "name": "Katie Featherston",
+            "order": 0,
+            "role": "Katie",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzfoprDirNsWxvxDKvRzUyPXKGR6.jpg/"
+          },
+          {
+            "name": "Kathryn Newton",
+            "order": 1,
+            "role": "Alex",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhEz2R1RTgaNznJ3fa9n3KabIXYl.jpg/"
+          },
+          {
+            "name": "Matt Shively",
+            "order": 2,
+            "role": "Ben",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fiHRsz1oz5SWGYhEXS59dR0dsODZ.jpg/"
+          },
+          {
+            "name": "Aiden Lovekamp",
+            "order": 3,
+            "role": "Wyatt",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fArVLQOI1UMcPjoakXCHIrZYFyVp.jpg/"
+          },
+          {
+            "name": "Brady Allen",
+            "order": 4,
+            "role": "Robbie",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8nglrDR3KL2sileDQua0l0nY9rk.jpg/"
+          },
+          {
+            "name": "Stephen Dunham",
+            "order": 5,
+            "role": "Doug",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6kBBjxl4QzHxHXXjvMi6BVbfLsf.jpg/"
+          },
+          {
+            "name": "Alexondra Lee",
+            "order": 6,
+            "role": "Holly",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2flEbjSMcwMJ7QbIO2v6xSQ7wudQ6.jpg/"
+          },
+          {
+            "name": "Georgica Pettus",
+            "order": 7,
+            "role": "Sarah",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fjHVyISCdlJ0RirIoqfPBZHxukQq.jpg/"
+          },
+          {
+            "name": "Alisha Boe",
+            "order": 8,
+            "role": "Tara",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fd97PBeHPYIJ4hshqoe2ahRJ2NIq.jpg/"
+          },
+          {
+            "name": "Brendon Eggertsen",
+            "order": 9,
+            "role": "Derek",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7iCXxXVj8fbWzPoXpduyHwz7qmS.jpg/"
+          },
+          {
+            "name": "Constance Esposito",
+            "order": 10,
+            "role": "Robbie's Mom's Friend"
+          },
+          {
+            "name": "Ty Dawson",
+            "order": 11,
+            "role": "Shadow Boy",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgZqKBQsWjEUXu090Nrc51idZvtn.jpg/"
+          },
+          {
+            "name": "Brian Boland",
+            "order": 12,
+            "role": "Daniel (archive footage) (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1sW3fZlsI1W0ctHUQXEC3hJkBQ4.jpg/"
+          },
+          {
+            "name": "Sprague Grayden",
+            "order": 13,
+            "role": "Kristi (archive footage) (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdhWyIHiG9fYMkcd3pUK3Q7kFm37.jpg/"
+          },
+          {
+            "name": "Sara Mornell",
+            "order": 14,
+            "role": "Debbie (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fz3H9E8xeR0Nd8nABouOiZ9Sv5AY.jpg/"
+          },
+          {
+            "name": "William Juan Prieto",
+            "order": 15,
+            "role": "Hunter (uncredited)"
+          },
+          {
+            "name": "Jennifer Hale",
+            "order": 16,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2foNQCrdiSm0mABCcE5YaHwuZQK8X.jpg/"
+          },
+          {
+            "name": "Emily Brobst",
+            "order": 17,
+            "role": "Dead Woman (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvc9Y7bM9PnXvt5D5BuozJvP5Gzd.jpg/"
+          }
+        ],
+        "dateadded": "2023-10-30 19:04:26",
+        "director": ["Henry Joost", "Ariel Schulman"],
+        "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f82990%2fmoviebackground%2fparanormal-activity-4-56b622f64ddba.jpg/",
+        "file": "/Movies/Paranormal Activity 4 (2012)/Paranormal.Activity.4.2012.Unrated.1080p.mp4",
+        "genre": ["Horror"],
+        "label": "Paranormal Activity 4",
+        "lastplayed": "",
+        "movieid": 562,
+        "mpaa": "Rated R",
+        "playcount": 0,
+        "rating": 5.400000095367432,
+        "resume": {
+          "position": 0,
+          "total": 0
+        },
+        "set": "Paranormal Activity Collection",
+        "studio": ["Room 101"],
+        "tag": [
+          "aftercreditsstinger",
+          "found footage",
+          "neighbor neighbor relationship",
+          "videotape",
+          "imaginary friend",
+          "bathtub",
+          "garage",
+          "poltergeist",
+          "webcam",
+          "tricycle",
+          "laptop computer",
+          "evil child",
+          "levitation",
+          "adopted child"
+        ],
+        "title": "Paranormal Activity 4",
+        "writer": ["Christopher Landon"],
+        "year": 2012
+      },
+      {
+        "art": {
+          "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f406563%2fmoviebanner%2finsidious-chapter-4-5ad5feac1a061.jpg/",
+          "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f406563%2fhdmovieclearart%2finsidious-chapter-4-5a339826b32ca.png/",
+          "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f406563%2fhdmovielogo%2finsidious-chapter-4-59aee7781b91d.png/",
+          "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f406563%2fmoviedisc%2finsidious-chapter-4-5b3ea832bf74a.png/",
+          "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f406563%2fmoviebackground%2finsidious-chapter-4-5a32a33e8e90c.jpg/",
+          "icon": "image://DefaultVideo.png/",
+          "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f406563%2fmovieposter%2finsidious-chapter-4-5a65fd342e125.jpg/",
+          "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f406563%2fmoviethumb%2finsidious-chapter-4-5c28d3b84e189.jpg/",
+          "poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f406563%2fmovieposter%2finsidious-chapter-4-5ab1a21c80787.jpg/",
+          "set.banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f228446%2fmoviebanner%2finsidious-collection-54c3e49783e60.jpg/",
+          "set.clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f228446%2fhdmovieclearart%2finsidious-collection-559aa5c09f3a3.png/",
+          "set.clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f228446%2fhdmovielogo%2finsidious-collection-5324e765c41f3.png/",
+          "set.fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f228446%2fmoviebackground%2finsidious-collection-5b3eaaa2431e6.jpg/",
+          "set.keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f228446%2fmovieposter%2finsidious-collection-54b599d43b5ee.jpg/",
+          "set.landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f228446%2fmoviethumb%2finsidious-collection-557ada05f01ac.jpg/",
+          "set.poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f228446%2fmovieposter%2finsidious-collection-56762659466a0.jpg/",
+          "thumb": "image://video@%2fMovies%2fInsidious%3a%20The%20Last%20Key%20(2018)%2fInsidious.The.Last.Key.2018.2160p.4K.WEB.x265.10bit.AAC5.1-%5bYTS.MX%5d.mkv/"
+        },
+        "cast": [
+          {
+            "name": "Lin Shaye",
+            "order": 0,
+            "role": "Elise Rainier",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faL87Za52elH81zMiXQn5C7AXAeg.jpg/"
+          },
+          {
+            "name": "Leigh Whannell",
+            "order": 1,
+            "role": "Specs",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fwvoTbsROOHfCqJ3Voe9zpal429L.jpg/"
+          },
+          {
+            "name": "Angus Sampson",
+            "order": 2,
+            "role": "Tucker",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8EX6ul2zyVUg91oDvI3RpYS5szV.jpg/"
+          },
+          {
+            "name": "Kirk Acevedo",
+            "order": 3,
+            "role": "Ted Garza",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fjFUHECwo7L3KOZ0HxCQytl90qed.jpg/"
+          },
+          {
+            "name": "Caitlin Gerard",
+            "order": 4,
+            "role": "Imogen Rainier",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fz0iCiV5kUb3GtKSlJ5BFZMCuRy9.jpg/"
+          },
+          {
+            "name": "Spencer Locke",
+            "order": 5,
+            "role": "Melissa Rainier",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzA5lAO0G67KRuL4Evfr8iPoJwVh.jpg/"
+          },
+          {
+            "name": "Josh Stewart",
+            "order": 6,
+            "role": "Gerald Rainier",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgdA3hddSlk6caULKjlFsrZ1ZbQp.jpg/"
+          },
+          {
+            "name": "Tessa Ferrer",
+            "order": 7,
+            "role": "Audrey Rainier",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxFSplcK6C8giWrDlP7U0TNe2yUH.jpg/"
+          },
+          {
+            "name": "Aleque Reid",
+            "order": 8,
+            "role": "Anna",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4QhCzYDRstg5sMWr76cDh2dSa5I.jpg/"
+          },
+          {
+            "name": "Ava Kolker",
+            "order": 9,
+            "role": "Elise Rainier (young)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqfuE5b4PNwVHKi1TweMIRdRwzx7.jpg/"
+          },
+          {
+            "name": "Pierce Pope",
+            "order": 10,
+            "role": "Christian Rainier (young)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffqS0DHD2FReQyk401jcsuqsXGuG.jpg/"
+          },
+          {
+            "name": "Bruce Davison",
+            "order": 11,
+            "role": "Christian Rainier",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuPHdmfGT2madX9nxIXoMCGoVJC.jpg/"
+          },
+          {
+            "name": "Javier Botet",
+            "order": 12,
+            "role": "KeyFace",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnuVbt1oreUUPPR0MhKKL7y6i9Dt.jpg/"
+          },
+          {
+            "name": "Marcus Henderson",
+            "order": 13,
+            "role": "Detective Whitfield",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvTevIy7GKjhmpoAhoayifnwqgn2.jpg/"
+          },
+          {
+            "name": "Amanda Jaros",
+            "order": 14,
+            "role": "Mara Jennings",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f760nQVHwP1VY0Ndzh5FDK9uaHNg.jpg/"
+          },
+          {
+            "name": "Judith Drake",
+            "order": 15,
+            "role": "Pam",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7ou1hID0A4rmixEx2QDib97Pkgh.jpg/"
+          },
+          {
+            "name": "Hana Hayes",
+            "order": 16,
+            "role": "Elise Rainier (teenage)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqufjrDvVKu6nsKEPB5dWzBJfVKZ.jpg/"
+          },
+          {
+            "name": "Thomas Robie",
+            "order": 17,
+            "role": "Christian Rainier (teenage)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqXCC0BISCUOKvWQIgIgkdoPnYJM.jpg/"
+          },
+          {
+            "name": "Josh Wingate",
+            "order": 18,
+            "role": "Executed Man",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5OJ2PmT4g8eXpXpiwkKzXCkgBMR.jpg/"
+          },
+          {
+            "name": "Danielle Kennedy",
+            "order": 19,
+            "role": "Kitchen Woman",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2flNRtMdZfKhbmZUkuFuNDjYrW1DK.jpg/"
+          },
+          {
+            "name": "Melanie Gaydos",
+            "order": 20,
+            "role": "Dark Angel",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnfANMYCPjb9p5ccto1NFO3IOFLd.jpg/"
+          },
+          {
+            "name": "Ty Simpkins",
+            "order": 21,
+            "role": "Dalton Lambert",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fiGPK0aZeKBkyBAjg7zl7AoZ7r2l.jpg/"
+          },
+          {
+            "name": "Rose Byrne",
+            "order": 22,
+            "role": "Renai Lambert",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4oQWCLK7gd6RNKF0WJipJo7TyFP.jpg/"
+          },
+          {
+            "name": "Patrick Wilson",
+            "order": 23,
+            "role": "Josh Lambert",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftc1ezEfIY8BhCy85svOUDtpBFPt.jpg/"
+          },
+          {
+            "name": "Stefanie Scott",
+            "order": 24,
+            "role": "Quinn Brenner",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9TDbZPkiNfPvPAvnCdWqA5ydDV9.jpg/"
+          },
+          {
+            "name": "Barbara Hershey",
+            "order": 25,
+            "role": "Lorraine Lambert",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6swwfge3HlvyBVRSNwroFtMcgNB.jpg/"
+          },
+          {
+            "name": "Joseph Bishara",
+            "order": 26,
+            "role": "Lipstick-Face Demon",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fjkFmkZcd16cEX2yGFNNAsNJyN5U.jpg/"
+          },
+          {
+            "name": "Danielle Bisutti",
+            "order": 27,
+            "role": "Mother of Parker Crane",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fddB51VdCjrgfUBBBw9SJawY5oJD.jpg/"
+          },
+          {
+            "name": "Brynn Bowie",
+            "order": 28,
+            "role": "Kali Lambert"
+          },
+          {
+            "name": "Madison Bowie",
+            "order": 29,
+            "role": "Kali Lambert",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fjUAEOuwjiDR6HGhjh9lcHa2T6u6.jpg/"
+          },
+          {
+            "name": "Lubella Gauna",
+            "order": 30,
+            "role": "Nurse (uncredited)"
+          },
+          {
+            "name": "Zahra Susan Ingersoll",
+            "order": 31,
+            "role": "Prisoner (uncredited)"
+          },
+          {
+            "name": "Paul LeClair",
+            "order": 32,
+            "role": "Diner Patron (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbUIrvto0Ayow2d8z82ezQg34aKM.jpg/"
+          },
+          {
+            "name": "Craig Reed",
+            "order": 33,
+            "role": "Lost Soul / Inmate (uncredited)"
+          }
+        ],
+        "dateadded": "2023-10-30 18:08:23",
+        "director": ["Adam Robitel"],
+        "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f406563%2fmoviebackground%2finsidious-chapter-4-5a32a33e8e90c.jpg/",
+        "file": "/Movies/Insidious: The Last Key (2018)/Insidious.The.Last.Key.2018.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv",
+        "genre": ["Horror", "Mystery", "Thriller"],
+        "label": "Insidious: The Last Key",
+        "lastplayed": "",
+        "movieid": 557,
+        "mpaa": "Rated PG-13",
+        "playcount": 0,
+        "rating": 6.265999794006348,
+        "resume": {
+          "position": 0,
+          "total": 0
+        },
+        "set": "Insidious Collection",
+        "studio": ["Stage 6 Films"],
+        "tag": ["1950s", "medium", "prequel", "spirit", "key", "haunted house"],
+        "title": "Insidious: The Last Key",
+        "writer": ["Leigh Whannell"],
+        "year": 2018
+      },
+      {
+        "art": {
+          "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f335977%2fmoviebanner%2findiana-jones-and-the-dial-of-destiny-63f7e8776b752.jpg/",
+          "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f335977%2fhdmovieclearart%2findiana-jones-and-the-dial-of-destiny-63924431dae55.png/",
+          "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f335977%2fhdmovielogo%2findiana-jones-and-the-dial-of-destiny-639227c388243.png/",
+          "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f335977%2fmoviedisc%2findiana-jones-and-the-dial-of-destiny-65075a977e270.png/",
+          "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f335977%2fmoviebackground%2findiana-jones-and-the-dial-of-destiny-647debc008c00.jpg/",
+          "icon": "image://DefaultVideo.png/",
+          "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f335977%2fmovieposter%2findiana-jones-and-the-dial-of-destiny-647debaf81d5a.jpg/",
+          "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f335977%2fmoviethumb%2findiana-jones-and-the-dial-of-destiny-63f7e88570696.jpg/",
+          "poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f335977%2fmovieposter%2findiana-jones-and-the-dial-of-destiny-6430766019e9a.jpg/",
+          "set.banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f84%2fmoviebanner%2fthe-indiana-jones-collection-5373bd8be2bda.jpg/",
+          "set.clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f84%2fhdmovieclearart%2fthe-indiana-jones-collection-547a79196a0d0.png/",
+          "set.clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f84%2fhdmovielogo%2fthe-indiana-jones-collection-51fe64d1441a6.png/",
+          "set.fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f84%2fmoviebackground%2fthe-indiana-jones-collection-5231dd5fefa7b.jpg/",
+          "set.keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f84%2fmovieposter%2fthe-indiana-jones-collection-5273f2b4edfb7.jpg/",
+          "set.landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f84%2fmoviethumb%2fthe-indiana-jones-collection-553d78fd31848.jpg/",
+          "set.poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f84%2fmovieposter%2fthe-indiana-jones-collection-5231dd4b36cf9.jpg/",
+          "thumb": "image://video@%2fMovies%2fIndiana%20Jones%20and%20the%20Dial%20of%20Destiny%20(2023)%2fIndiana.Jones.And.The.Dial.Of.Destiny.2023.2160p.4K.WEB.x265.10bit.AAC5.1-%5bYTS.MX%5d.mkv/"
+        },
+        "cast": [
+          {
+            "name": "Harrison Ford",
+            "order": 0,
+            "role": "Indiana Jones",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzVnHagUvXkR2StdOtquEwsiwSVt.jpg/"
+          },
+          {
+            "name": "Phoebe Waller-Bridge",
+            "order": 1,
+            "role": "Helena",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fppRIfUYcl0RWlxp5gSmdzIFFLAS.jpg/"
+          },
+          {
+            "name": "Mads Mikkelsen",
+            "order": 2,
+            "role": "Dr. Voller",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpfZaC3X9kWBFkEVkwAhDBjCRO2.jpg/"
+          },
+          {
+            "name": "Boyd Holbrook",
+            "order": 3,
+            "role": "Klaber",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftmFuUljxIvuQbEZqfF9btLBOFDn.jpg/"
+          },
+          {
+            "name": "Olivier Richters",
+            "order": 4,
+            "role": "Hauke",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8Zz5WYE1Muc3AX9daxCxgNTRE5.jpg/"
+          },
+          {
+            "name": "Ethann Isidore",
+            "order": 5,
+            "role": "Teddy",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f64mNpiPrraEUjwSHLJzLfFxjXwT.jpg/"
+          },
+          {
+            "name": "Toby Jones",
+            "order": 6,
+            "role": "Basil Shaw",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1qNisdp4f1KstdfvAgYXMdrhwfk.jpg/"
+          },
+          {
+            "name": "Antonio Banderas",
+            "order": 7,
+            "role": "Renaldo",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fn8YlGookYzgD3cmpMP45BYRNIoh.jpg/"
+          },
+          {
+            "name": "Karen Allen",
+            "order": 8,
+            "role": "Marion",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f75yyZZyinCUcuK8pOSXnggmuiRp.jpg/"
+          },
+          {
+            "name": "John Rhys-Davies",
+            "order": 9,
+            "role": "Sallah",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbfn4WvhGo2QKYtv5ynk7tKu7NnL.jpg/"
+          },
+          {
+            "name": "Shaunette Renée Wilson",
+            "order": 10,
+            "role": "Mason",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffPjeTxxE2sB0bQUcAoO13mKsKK5.jpg/"
+          },
+          {
+            "name": "Thomas Kretschmann",
+            "order": 11,
+            "role": "Colonel Weber",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7M0P39a3CVA22dJyv5YQEkTThU7.jpg/"
+          },
+          {
+            "name": "Martin McDougall",
+            "order": 12,
+            "role": "Durkin",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fsqosciocBl1OgQmnBXjSOafDvpt.jpg/"
+          },
+          {
+            "name": "Alaa Safi",
+            "order": 13,
+            "role": "Rahim",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f11R1c4UOSMsj1advqUmFQj6sTe1.jpg/"
+          },
+          {
+            "name": "Francis Chapman",
+            "order": 14,
+            "role": "Young SS Officer",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyMLhKYHITI3wA57ctG1Vfr06FZj.jpg/"
+          },
+          {
+            "name": "Alfonso Rosario Mandia",
+            "order": 15,
+            "role": "Italian Ticket Seller"
+          },
+          {
+            "name": "Chase Brown",
+            "order": 16,
+            "role": "Larry - Beat Poet Guy"
+          },
+          {
+            "name": "Nasser Memarzia",
+            "order": 17,
+            "role": "Archimedes",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpugV3fpgTJg98JmVLoPAHxpDAwE.jpg/"
+          },
+          {
+            "name": "Amedeo Bianchimano",
+            "order": 18,
+            "role": "Milanese Suit Man"
+          },
+          {
+            "name": "Anna Francolini",
+            "order": 19,
+            "role": "Mandy",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzkfIJehMXE8jSzbClQsILZqddM5.jpg/"
+          },
+          {
+            "name": "Gabby Wong",
+            "order": 20,
+            "role": "Chinese Hat Bidder",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8ja0TBklf82kOD5ASE3SXwaEVvK.jpg/"
+          },
+          {
+            "name": "Adolfo Margiotta",
+            "order": 21,
+            "role": "Hector - Salty Diver",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fy5FiYFuFogq0oHr1PPGklAyNjIr.jpg/"
+          },
+          {
+            "name": "Niccolo Cancellieri",
+            "order": 22,
+            "role": "Sirene Deck Hand"
+          },
+          {
+            "name": "Antonio Iorio",
+            "order": 23,
+            "role": "Popeye - Lead Scuba Diver"
+          },
+          {
+            "name": "Manuel Klein",
+            "order": 24,
+            "role": "SS Stormtrooper",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2Fzai7q0oGAccXQWnxMruloCwbL.jpg/"
+          },
+          {
+            "name": "Holly Lawton",
+            "order": 25,
+            "role": "Young Helena"
+          },
+          {
+            "name": "Guy Paul",
+            "order": 26,
+            "role": "Prof. Plimpton"
+          },
+          {
+            "name": "Harriet Slater",
+            "order": 27,
+            "role": "Fran",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5AnOyNfZ6doZWueuHo7unYE3lMI.jpg/"
+          },
+          {
+            "name": "Alton Fitzgerald White",
+            "order": 28,
+            "role": "Hotel Porter",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fj6tlSWT0VFa8lSTnFaphDuCuzAP.jpg/"
+          },
+          {
+            "name": "Ian Porter",
+            "order": 29,
+            "role": "Bob - Bartender",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqmTTaWGp5OO5rTFey9EFfo0dH5n.jpg/"
+          },
+          {
+            "name": "Daniel Anderson",
+            "order": 30,
+            "role": "Kommando Commander",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fiwyzD7tcNVeXY7py6qTk3INlY7F.jpg/"
+          },
+          {
+            "name": "Cory Peterson",
+            "order": 31,
+            "role": "Gov PR Man",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frJBVo64hhSdmAJS7raAT0L9nJcS.jpg/"
+          },
+          {
+            "name": "Charles Hagerty",
+            "order": 32,
+            "role": "Reporter - St Regis",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fFPYghZNwfWsgdCUxQ8gMrIsFSE.jpg/"
+          },
+          {
+            "name": "Ali Saleh",
+            "order": 33,
+            "role": "Jabari - Sallah's Grandson"
+          },
+          {
+            "name": "Amara Khan",
+            "order": 34,
+            "role": "Alia - Sallah's Granddaughter"
+          },
+          {
+            "name": "Jill Winternitz",
+            "order": 35,
+            "role": "Pan Am Stewardess",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbBfmth2C93OkyYir6w8qxjmHpiR.jpg/"
+          },
+          {
+            "name": "Billy Postlethwaite",
+            "order": 36,
+            "role": "Prof. Donner",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fcpHNAqOBP8SIcml1A8ODmtuEyNh.jpg/"
+          },
+          {
+            "name": "Clara Greco",
+            "order": 37,
+            "role": "Italian Tour Guide"
+          },
+          {
+            "name": "Joe Gallina",
+            "order": 38,
+            "role": "Mounted Cop",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbw0oa1SXhNXlZPKjLxHPkS978s.jpg/"
+          },
+          {
+            "name": "Nicholas Bendall",
+            "order": 39,
+            "role": "Filthy Guitar Guy"
+          },
+          {
+            "name": "Thulani Storm",
+            "order": 40,
+            "role": "Filthy Guitar Guy"
+          },
+          {
+            "name": "Edoardo Strano",
+            "order": 41,
+            "role": "Archimedes Servant"
+          },
+          {
+            "name": "Angelo Spagnoletti",
+            "order": 42,
+            "role": "Archimedes Servant",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4NtUvdYzUaL0WTE57mciOGGedEZ.jpg/"
+          },
+          {
+            "name": "Hicham Ouaraqa",
+            "order": 43,
+            "role": "Moroccan Policeman"
+          },
+          {
+            "name": "Adil Louchgui",
+            "order": 44,
+            "role": "Moroccan Policeman"
+          },
+          {
+            "name": "David Mills",
+            "order": 45,
+            "role": "TV Reporter"
+          },
+          {
+            "name": "Rhyanna Alexander-Davis",
+            "order": 46,
+            "role": "Hippie Girl",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fp1lfGT7SU0BDjfWLljRx4vSnWpR.jpg/"
+          },
+          {
+            "name": "Gary Fannin",
+            "order": 47,
+            "role": "Armed Intelligence Officer",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f93KIHd00iHFotZz3uTdCugNke7o.jpg/"
+          },
+          {
+            "name": "Gunnar Cauthery",
+            "order": 48,
+            "role": "Pilot - Heinkel 111",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fas93zqZlUUM3UgfJdLuVdDRdrC3.jpg/"
+          },
+          {
+            "name": "Aron von Andrian",
+            "order": 49,
+            "role": "Navigator - Heinkel 111",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzK7lumC8gfsldg9rtLS42RzxJ4u.jpg/"
+          },
+          {
+            "name": "Nikola Trifunovic",
+            "order": 50,
+            "role": "SS Kommando"
+          },
+          {
+            "name": "Henry Garrett",
+            "order": 51,
+            "role": "Louis - Drunk Airline Pilot",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuVmFDIaaBNvMYC0iBCr3dFoMdfK.jpg/"
+          },
+          {
+            "name": "Elena Saurel",
+            "order": 52,
+            "role": "Drunk Airline Stewardess",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fj9QlZakIhoGAPmXHbwlH3wHYDbG.jpg/"
+          },
+          {
+            "name": "Mike Massa",
+            "order": 53,
+            "role": "1944 Indiana Jones Double"
+          },
+          {
+            "name": "Anthony Ingruber",
+            "order": 54,
+            "role": "1944 Indiana Jones Double / Dutch Prince - Bidder",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffUTCd1jGGQHn912czglHg28v4gR.jpg/"
+          },
+          {
+            "name": "Christian Sacha Mehja-Stokes",
+            "order": 55,
+            "role": "Rich Kid"
+          },
+          {
+            "name": "Angus Yellowlees",
+            "order": 56,
+            "role": "Hippie Student",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2flNsKu31s7FSohLIhmrlVgTLeYVS.jpg/"
+          },
+          {
+            "name": "Matthew Staite",
+            "order": 57,
+            "role": "SS Guard/Comms Officer"
+          },
+          {
+            "name": "Corrado Invernizzi",
+            "order": 58,
+            "role": "Luigi - Italian Engineer",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feT0noHS5TtUTr0O1bcE8yqWkRoI.jpg/"
+          },
+          {
+            "name": "Joerg Stadler",
+            "order": 59,
+            "role": "Gestapo Officer",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fc442cR10gEk6CWXNJQUdf3rUFgk.jpg/"
+          },
+          {
+            "name": "Thorston Manderlay",
+            "order": 60,
+            "role": "Staff Car Officer",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2VHGWiwsWtV3st16pj088KVtDzS.jpg/"
+          },
+          {
+            "name": "Basil Eidenbenz",
+            "order": 61,
+            "role": "Sentry",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffvT27dKBe0mLouXE6xa0oCgIAta.jpg/"
+          },
+          {
+            "name": "Johann Heske",
+            "order": 62,
+            "role": "Sentry",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffMWw3UoWhIb8NGlbHQzYkLIFccH.jpg/"
+          },
+          {
+            "name": "Joshua Broadstone",
+            "order": 63,
+            "role": "Overalls"
+          },
+          {
+            "name": "Bruce Lester-Johnson",
+            "order": 64,
+            "role": "Screaming Cabbie",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqcDYGUloUe2thCpaBWHJ1yOWqWY.jpg/"
+          },
+          {
+            "name": "Martin Sherman",
+            "order": 65,
+            "role": "Drunk - Appliance Store",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6i4EIOrnaHvytOxUsh0LLH0M4wf.jpg/"
+          },
+          {
+            "name": "Allon Sylvain",
+            "order": 66,
+            "role": "L'Atlantique Maître D",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fajW5apLv666aoh6UeCpe6MLRk5G.jpg/"
+          },
+          {
+            "name": "William Meredith",
+            "order": 67,
+            "role": "Con Ed Van Driver",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvLiHlMF7IPZ0bNQzN0MV8RKw992.jpg/"
+          },
+          {
+            "name": "Kate Doherty",
+            "order": 68,
+            "role": "Basil's Housekeeper"
+          },
+          {
+            "name": "Duran Fulton Brown",
+            "order": 69,
+            "role": "Barricade Cop"
+          },
+          {
+            "name": "Eliza Mae Kyffin",
+            "order": 70,
+            "role": "Screaming Beauty Queen"
+          },
+          {
+            "name": "Mauro Cardinali",
+            "order": 71,
+            "role": "Maximus"
+          },
+          {
+            "name": "Mark Killeen",
+            "order": 72,
+            "role": "Pontimus",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdcsHqbZXmCsQE8Vcw3jufx8C8FX.jpg/"
+          },
+          {
+            "name": "Bharat Doshi",
+            "order": 73,
+            "role": "Miss Jaffrey"
+          },
+          {
+            "name": "Aïssam Bouali",
+            "order": 74,
+            "role": "Henchman",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbUsUqtF4tjXDMytMggMAx5xUJvv.jpg/"
+          },
+          {
+            "name": "Douglas Robson",
+            "order": 75,
+            "role": "Gunther"
+          },
+          {
+            "name": "Mohammed R. Kamel",
+            "order": 76,
+            "role": "Hotel Security"
+          },
+          {
+            "name": "Bryony Miller",
+            "order": 77,
+            "role": "Confused Student",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fb8j1QLDHlRqG6fq4SkSCK1ayaGW.jpg/"
+          },
+          {
+            "name": "Tiwa Lade",
+            "order": 78,
+            "role": "Bubblegum Student"
+          },
+          {
+            "name": "Brodie Husband",
+            "order": 79,
+            "role": "Sketching Student"
+          },
+          {
+            "name": "Hannah Onslow",
+            "order": 80,
+            "role": "Student",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftGSdGZRoWRSMgihgRD5SQ8vxrQ3.jpg/"
+          }
+        ],
+        "dateadded": "2023-10-14 15:18:12",
+        "director": ["James Mangold"],
+        "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f335977%2fmoviebackground%2findiana-jones-and-the-dial-of-destiny-647debc008c00.jpg/",
+        "file": "/Movies/Indiana Jones and the Dial of Destiny (2023)/Indiana.Jones.And.The.Dial.Of.Destiny.2023.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv",
+        "genre": ["Adventure", "Action"],
+        "label": "Indiana Jones and the Dial of Destiny",
+        "lastplayed": "2023-11-03 13:14:37",
+        "movieid": 520,
+        "mpaa": "Rated PG-13",
+        "playcount": 0,
+        "rating": 6.669000148773193,
+        "resume": {
+          "position": 0,
+          "total": 0
+        },
+        "set": "Indiana Jones Collection",
+        "studio": ["Lucasfilm Ltd."],
+        "tag": [
+          "sequel",
+          "1960s",
+          "adventurer",
+          "ancient rome",
+          "flashback",
+          "archaeologist",
+          "nazi germany",
+          "treasure hunt",
+          "knife fight",
+          "action adventure"
+        ],
+        "title": "Indiana Jones and the Dial of Destiny",
+        "writer": [
+          "James Mangold",
+          "David Koepp",
+          "Jez Butterworth",
+          "John-Henry Butterworth"
+        ],
+        "year": 2023
+      },
+      {
+        "art": {
+          "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f43933%2fmoviebanner%2fmonsters-51af7de03e78a.jpg/",
+          "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f43933%2fhdmovieclearart%2fmonsters-50b68eef4da0e.png/",
+          "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f43933%2fhdmovielogo%2fmonsters-517bfa8757f47.png/",
+          "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f43933%2fmoviedisc%2fmonsters-5481b477f24e8.png/",
+          "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fimiBIsvNU3TbMB3sbqKanKODS33.jpg/",
+          "icon": "image://DefaultVideo.png/",
+          "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f43933%2fmovieposter%2fmonsters-5544ce3333081.jpg/",
+          "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f43933%2fmoviethumb%2fmonsters-650b3d9739421.jpg/",
+          "poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f43933%2fmovieposter%2fmonsters-650b3e38574fe.jpg/",
+          "set.clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f306926%2fhdmovielogo%2fmonsters-collection-5e08274f3d221.png/",
+          "set.fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2k8KXYTcqxkKpq7lBZFMJ4zjBUF.jpg/",
+          "set.landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fx6KYqHodxxem9yEm5Bbev6b5hZs.jpg/",
+          "set.poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f99LWF4DhROjIxYL2c8FjaXJfiA2.jpg/",
+          "thumb": "image://video@%2fMovies%2fMonsters%20(2010)%2fMonsters.2010.1080p-%5bYTS.AM%5d.mp4/"
+        },
+        "cast": [
+          {
+            "name": "Scoot McNairy",
+            "order": 0,
+            "role": "Andrew Kaulder",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2rF69vkyzpD2MG0T375RYSiBbpe.jpg/"
+          },
+          {
+            "name": "Whitney Able",
+            "order": 1,
+            "role": "Samantha Wynden",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5d1DZDXHLi9sGCTxjPKpijqYWlz.jpg/"
+          },
+          {
+            "name": "Mario Zuniga Benavides",
+            "order": 2,
+            "role": "Ticket Seller"
+          },
+          {
+            "name": "Annalee Jefferies",
+            "order": 3,
+            "role": "Homeless Woman",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f610p3ghJbLH8sJddMcbgJKsDISF.jpg/"
+          },
+          {
+            "name": "Justin Hall",
+            "order": 4,
+            "role": "Marine",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feGqQIfk1iRE2k7MFOe4HaTJHvCT.jpg/"
+          },
+          {
+            "name": "Ricky Catter",
+            "order": 5,
+            "role": "Marine",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbJAAx704I01IiUKCiJFOUyVSjmC.jpg/"
+          },
+          {
+            "name": "Paul Archer",
+            "order": 6,
+            "role": "Marine"
+          },
+          {
+            "name": "Kerry Valderrama",
+            "order": 7,
+            "role": "Marine"
+          },
+          {
+            "name": "Jonathan Winnford",
+            "order": 8,
+            "role": "Marine"
+          },
+          {
+            "name": "Stan Wong",
+            "order": 9,
+            "role": "Marine"
+          },
+          {
+            "name": "Anthony Cristo",
+            "order": 10,
+            "role": "Marine"
+          },
+          {
+            "name": "Mario Richardson",
+            "order": 11,
+            "role": "Marine"
+          },
+          {
+            "name": "Jorge Quirs",
+            "order": 12,
+            "role": "Marine"
+          },
+          {
+            "name": "Erick Arce",
+            "order": 13,
+            "role": "Marine"
+          },
+          {
+            "name": "Emigo Munkel",
+            "order": 14,
+            "role": "Marine"
+          },
+          {
+            "name": "Esteban Blanco",
+            "order": 15,
+            "role": "Marine"
+          },
+          {
+            "name": "Victor Vejan",
+            "order": 16,
+            "role": "Guerilla"
+          },
+          {
+            "name": "Cristopher Chararria",
+            "order": 17,
+            "role": "Guerilla"
+          },
+          {
+            "name": "Roman Bustamante",
+            "order": 18,
+            "role": "Guerilla"
+          },
+          {
+            "name": "Solamon Albarran",
+            "order": 19,
+            "role": "Guerilla"
+          },
+          {
+            "name": "Alejandro Sotero",
+            "order": 20,
+            "role": "Guerilla"
+          },
+          {
+            "name": "Victorino Angulo",
+            "order": 21,
+            "role": "Guerilla"
+          },
+          {
+            "name": "David Alba Garcia",
+            "order": 22,
+            "role": "Guerilla"
+          },
+          {
+            "name": "Eduardo Guizak",
+            "order": 23,
+            "role": "Guerilla"
+          },
+          {
+            "name": "Alfonso Pineda",
+            "order": 24,
+            "role": "Guerilla"
+          },
+          {
+            "name": "Jose Garcia Gomez",
+            "order": 25,
+            "role": "Guerilla"
+          },
+          {
+            "name": "Erika Morales Yolanda Chacon",
+            "order": 26,
+            "role": "Mother 'Erika', Bocoyna"
+          },
+          {
+            "name": "Elsa Rascon Gonzalez",
+            "order": 27,
+            "role": "Grandmother, Bocoyna"
+          },
+          {
+            "name": "Jose Luis Morales Chacon",
+            "order": 28,
+            "role": "Child of Family, Bocoyna"
+          },
+          {
+            "name": "Tamilez Morales Chacon",
+            "order": 29,
+            "role": "Child of Family, Bocoyna"
+          },
+          {
+            "name": "Jonathan Cadena Chacon",
+            "order": 30,
+            "role": "Child of Family, Bocoyna"
+          },
+          {
+            "name": "Cindy Vanessa Cadena Morales",
+            "order": 31,
+            "role": "Child of Family, Bocoyna"
+          },
+          {
+            "name": "Javier Acosta Rodriguez",
+            "order": 32,
+            "role": "Taxi Driver"
+          },
+          {
+            "name": "Victor Manuel Martinez Tovar",
+            "order": 33,
+            "role": "Boat Skipper"
+          },
+          {
+            "name": "Walter Hernandez Col",
+            "order": 34,
+            "role": "Boat Assistant"
+          },
+          {
+            "name": "Kenedy Gamaliel Jiminez",
+            "order": 35,
+            "role": "Driver of Pick-Up Truck to the Zone"
+          },
+          {
+            "name": "Hugo Valuerde",
+            "order": 36,
+            "role": "Motorbike Driver"
+          },
+          {
+            "name": "Roberto Saluzan",
+            "order": 37,
+            "role": "Ambulance Guy"
+          },
+          {
+            "name": "Cesan Solauo",
+            "order": 38,
+            "role": "Ambulance Guy"
+          },
+          {
+            "name": "Aris Martinez",
+            "order": 39,
+            "role": "Nurse in Maternity Ward"
+          },
+          {
+            "name": "Claudia Valdez",
+            "order": 40,
+            "role": "Nurse in Maternity Ward"
+          },
+          {
+            "name": "Elizabeth Blanco Sanchez",
+            "order": 41,
+            "role": "Main Receptionist at Hospital"
+          },
+          {
+            "name": "Gloria Soza",
+            "order": 42,
+            "role": "Second Receptionist at Hospital"
+          },
+          {
+            "name": "Aura Escobar",
+            "order": 43,
+            "role": "Third Receptionist at Hospital"
+          },
+          {
+            "name": "Max Alfredo Coe Tux",
+            "order": 44,
+            "role": "Man at River Guarding Oil Barrels"
+          },
+          {
+            "name": "Ivan Sanchez",
+            "order": 45,
+            "role": "Man at River Guarding Oil Barrels"
+          },
+          {
+            "name": "Wilfredo Hernandez Alvarado",
+            "order": 46,
+            "role": "Policeman Guarding Barrier"
+          },
+          {
+            "name": "Ramon Otzoy Sucuc",
+            "order": 47,
+            "role": "Policeman Guarding Barrier"
+          },
+          {
+            "name": "Erma Bradley",
+            "order": 48,
+            "role": "Lady Holding Daughter in Flood"
+          }
+        ],
+        "dateadded": "2023-08-20 20:33:32",
+        "director": ["Gareth Edwards"],
+        "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fimiBIsvNU3TbMB3sbqKanKODS33.jpg/",
+        "file": "/Movies/Monsters (2010)/Monsters.2010.1080p-[YTS.AM].mp4",
+        "genre": ["Drama", "Thriller", "Science Fiction"],
+        "label": "Monsters",
+        "lastplayed": "2023-10-14 16:25:45",
+        "movieid": 526,
+        "mpaa": "Rated R",
+        "playcount": 0,
+        "rating": 6.230000019073486,
+        "resume": {
+          "position": 0,
+          "total": 0
+        },
+        "set": "Monsters Collection",
+        "studio": ["Vertigo Films"],
+        "tag": [
+          "pyramid",
+          "dystopia",
+          "alien",
+          "infection",
+          "alien invasion",
+          "monster",
+          "forest",
+          "mexico",
+          "radio",
+          "usa–mexico border",
+          "central america",
+          "cattle",
+          "dead fish",
+          "reality vs fantasy",
+          "dark secret"
+        ],
+        "title": "Monsters",
+        "writer": ["Gareth Edwards"],
+        "year": 2010
+      },
+      {
+        "art": {
+          "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f9453%2fmoviebanner%2fcaligula-561b98e5bea3b.jpg/",
+          "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f9453%2fhdmovieclearart%2fcaligula-561c1157111ed.png/",
+          "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f9453%2fhdmovielogo%2fcaligula-51cb648190300.png/",
+          "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f9453%2fmoviedisc%2fcaligula-569f792e848ef.png/",
+          "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f9453%2fmoviebackground%2fcaligula-58a22103e6dba.jpg/",
+          "icon": "image://DefaultVideo.png/",
+          "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f9453%2fmoviethumb%2fcaligula-5586d0829d9e4.jpg/",
+          "poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f9453%2fmovieposter%2fcaligula-56d76312a75b8.jpg/",
+          "thumb": "image://video@%2fMovies%2fCaligula%20(1979)%2fCaligula%20(1979).mp4/"
+        },
+        "cast": [
+          {
+            "name": "Malcolm McDowell",
+            "order": 0,
+            "role": "Caligula",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg/"
+          },
+          {
+            "name": "Teresa Ann Savoy",
+            "order": 1,
+            "role": "Drusilla",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fcNM6nFuxG53DtFOUkBOfiFQUX0l.jpg/"
+          },
+          {
+            "name": "Guido Mannari",
+            "order": 2,
+            "role": "Macro",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frWzMSV9XjExq7ThPF2O0Kooetl9.jpg/"
+          },
+          {
+            "name": "John Gielgud",
+            "order": 3,
+            "role": "Nerva",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frSyG2ypOnMVOuGtDJMYt5VV1bMr.jpg/"
+          },
+          {
+            "name": "Peter O'Toole",
+            "order": 4,
+            "role": "Tiberius",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7HzyrEuRVPpjmyJTeiU5oILd3Cn.jpg/"
+          },
+          {
+            "name": "Giancarlo Badessi",
+            "order": 5,
+            "role": "Claudius",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2flUJyXOlWIH8jUNV3l5epHoGKZ8o.jpg/"
+          },
+          {
+            "name": "Bruno Brive",
+            "order": 6,
+            "role": "Gemellus"
+          },
+          {
+            "name": "Adriana Asti",
+            "order": 7,
+            "role": "Ennia",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkYZa3wNA2Ncyk3QZTvZo02spqUy.jpg/"
+          },
+          {
+            "name": "Leopoldo Trieste",
+            "order": 8,
+            "role": "Charicles",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frviagoREwu8GhuDKzju8rNoYuo1.jpg/"
+          },
+          {
+            "name": "Paolo Bonacelli",
+            "order": 9,
+            "role": "Chaerea",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7h2EJQ19m9pZCfyGEoXb8aEFIF2.jpg/"
+          },
+          {
+            "name": "John Steiner",
+            "order": 10,
+            "role": "Longinus",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fg3YFNCxHqhsFpj7Le3exjbWY9mu.jpg/"
+          },
+          {
+            "name": "Mirella D'Angelo",
+            "order": 11,
+            "role": "Livia",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxtws8mbJQFFNYOjseFqZJYpNvbm.jpg/"
+          },
+          {
+            "name": "Helen Mirren",
+            "order": 12,
+            "role": "Caesonia",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feY26gqv9EGunId7kp32pLueXvz4.jpg/"
+          },
+          {
+            "name": "Rick Parets",
+            "order": 13,
+            "role": "Mnester"
+          },
+          {
+            "name": "Paula Mitchell",
+            "order": 14,
+            "role": "Subura Singer"
+          },
+          {
+            "name": "Osiride Pevarello",
+            "order": 15,
+            "role": "Giant",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fcGqwkE5y6xR56wpSAlNOgcql1pS.jpg/"
+          },
+          {
+            "name": "Donato Placido",
+            "order": 16,
+            "role": "Proculus",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1Tzhk0CaNePXYIdMsjuAY5aVqDH.jpg/"
+          },
+          {
+            "name": "Anneka Di Lorenzo",
+            "order": 17,
+            "role": "Messalina"
+          },
+          {
+            "name": "Lori Wagner",
+            "order": 18,
+            "role": "Agrippina",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fA1crVqDQBq89wfOecJwha8Db47B.jpg/"
+          },
+          {
+            "name": "Maria Mascarielli",
+            "order": 19,
+            "role": "Banquet Woman (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpdKADaIXyeDMrIjC8dqYGcmtfqf.jpg/"
+          },
+          {
+            "name": "Donatella Damiani",
+            "order": 20,
+            "role": "Breastfeeding nurse (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7Z7y4kJgNHGut67ftaRdi8vnclE.jpg/"
+          },
+          {
+            "name": "Mario Pascucci",
+            "order": 21,
+            "role": "Man at Banquet (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fymeUU28dZMrAXbon0ZFq30GiviL.jpg/"
+          },
+          {
+            "name": "Tony Casale",
+            "order": 22,
+            "role": "Senator (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftEfkLiPJRy9L5c9kRCqUegqREUM.jpg/"
+          }
+        ],
+        "dateadded": "2023-08-09 18:01:47",
+        "director": ["Tinto Brass"],
+        "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f9453%2fmoviebackground%2fcaligula-58a22103e6dba.jpg/",
+        "file": "/Movies/Caligula (1979)/Caligula (1979).mp4",
+        "genre": ["Drama", "History", "Romance"],
+        "label": "Caligula",
+        "lastplayed": "",
+        "movieid": 505,
+        "mpaa": "Rated R",
+        "playcount": 0,
+        "rating": 5.998000144958496,
+        "resume": {
+          "position": 0,
+          "total": 0
+        },
+        "set": "",
+        "studio": ["Penthouse Films International"],
+        "tag": [
+          "brutality",
+          "roman empire",
+          "emperor",
+          "ancient rome",
+          "marriage",
+          "sexuality",
+          "lgbt interest",
+          "lust",
+          "italy",
+          "assassination",
+          "sadism",
+          "rape",
+          "orgy",
+          "roman",
+          "insanity",
+          "syphillis",
+          "punishment",
+          "erotic movie",
+          "1st century",
+          "caligula"
+        ],
+        "title": "Caligula",
+        "writer": ["Masolino D'Amico"],
+        "year": 1979
+      },
+      {
+        "art": {
+          "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f569094%2fmoviebanner%2fspider-man-across-the-spider-verse-64d13ee390603.jpg/",
+          "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f569094%2fhdmovieclearart%2fspider-man-across-the-spider-verse-63a20627cc232.png/",
+          "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f569094%2fhdmovielogo%2fspider-man-across-the-spider-verse-64342d8d2a472.png/",
+          "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f569094%2fmoviedisc%2fspider-man-across-the-spider-verse-64d13eff60d8b.png/",
+          "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f569094%2fmoviebackground%2fspider-man-across-the-spider-verse-63a438728f229.jpg/",
+          "icon": "image://DefaultVideo.png/",
+          "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f569094%2fmovieposter%2fspider-man-across-the-spider-verse-6459b555bb030.jpg/",
+          "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f569094%2fmoviethumb%2fspider-man-across-the-spider-verse-6465fd8fd39b8.jpg/",
+          "poster": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f569094%2fmovieposter%2fspider-man-across-the-spider-verse-63a1f6f211d49.jpg/",
+          "set.fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f573436%2fmoviebackground%2f-65077fc3d9ec2.jpg/",
+          "set.landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdJHR8KVJ4mEI3mWFTGdcvpzKRRl.jpg/",
+          "set.poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feD4bGQNfmqExIAzKdvX5gDHhI2.jpg/",
+          "thumb": "image://video@%2fMovies%2fSpider-Man%3a%20Across%20the%20Spider-Verse%20(2023)%2fSpider-Man.Across.The.Spider-Verse.2023.2160p.4K.WEB.x265.10bit.AAC5.1-%5bYTS.MX%5d.mkv/"
+        },
+        "cast": [
+          {
+            "name": "Shameik Moore",
+            "order": 0,
+            "role": "Miles Morales / Spider-Man (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuJNaSTsfBOvtFWsPP23zNthknsB.jpg/"
+          },
+          {
+            "name": "Hailee Steinfeld",
+            "order": 1,
+            "role": "Gwen Stacy / Spider-Woman (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fq4UpZMEuvNCN5lL5L6xa3ICpheJ.jpg/"
+          },
+          {
+            "name": "Jason Schwartzman",
+            "order": 2,
+            "role": "Jonathan Ohnn / Spot (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgCjMdmW1DiPAClHVl4zHEIffIsE.jpg/"
+          },
+          {
+            "name": "Oscar Isaac",
+            "order": 3,
+            "role": "Miguel O'Hara / Spider-Man 2099 (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdW5U5yrIIPmMjRThR9KT2xH6nTz.jpg/"
+          },
+          {
+            "name": "Brian Tyree Henry",
+            "order": 4,
+            "role": "Jeff Morales (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1UgDnFt3OteCJQPiUelWzIR5bvT.jpg/"
+          },
+          {
+            "name": "Luna Lauren Velez",
+            "order": 5,
+            "role": "Rio Morales (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg/"
+          },
+          {
+            "name": "Jake Johnson",
+            "order": 6,
+            "role": "Peter B. Parker / Spider-Man (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3gASdJlbZYxTDYMaX6ALo4BDEjN.jpg/"
+          },
+          {
+            "name": "Issa Rae",
+            "order": 7,
+            "role": "Jessica Drew / Spider-Woman (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1tX1T5ZNCMh2KYP1jMgfg8P26vm.jpg/"
+          },
+          {
+            "name": "Karan Soni",
+            "order": 8,
+            "role": "Pavitr Prabhakar / Spider-Man India (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhkyWd9bcuOqUAUepOJLE47izTWR.jpg/"
+          },
+          {
+            "name": "Shea Whigham",
+            "order": 9,
+            "role": "George Stacy (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyHOYG5qKi3b0DhKOrPoBnELjR7z.jpg/"
+          },
+          {
+            "name": "Greta Lee",
+            "order": 10,
+            "role": "LYLA (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6SydTis4XUcovlwIGskT59JowLX.jpg/"
+          },
+          {
+            "name": "Amandla Stenberg",
+            "order": 11,
+            "role": "Margo Kess: Spider-Byte (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fan4LrFOKPQxUVqfJ6M8Ck4y0FiP.jpg/"
+          },
+          {
+            "name": "Jharrel Jerome",
+            "order": 12,
+            "role": "Miles G. Morales (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frh9EcyoIhmWTXBCdgadGQaerfbA.jpg/"
+          },
+          {
+            "name": "Andy Samberg",
+            "order": 13,
+            "role": "Ben Reilly / Scarlet Spider (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fjMXU5oG3i93SH1yhkpbBGskFiJl.jpg/"
+          },
+          {
+            "name": "Jack Quaid",
+            "order": 14,
+            "role": "Peter Parker / The Lizard (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnI6ULvUIxxajya5DeTxcCdV3cal.jpg/"
+          },
+          {
+            "name": "Rachel Dratch",
+            "order": 15,
+            "role": "Ms. Weber (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhXBDjoU53c3B1Ni2htWTc0YA7RB.jpg/"
+          },
+          {
+            "name": "Ziggy Marley",
+            "order": 16,
+            "role": "Lenny (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzSjImejFxQcuAqRT1Oq0pwvruin.jpg/"
+          },
+          {
+            "name": "Jorma Taccone",
+            "order": 17,
+            "role": "Adriano Tumino / '67 (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fx7x4NvDauuQ7HA6psLZYZ6m3zTd.jpg/"
+          },
+          {
+            "name": "Daniel Kaluuya",
+            "order": 18,
+            "role": "Hobie Brown / Spider-Punk (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fa07Tqzgp0IrW9YkcOQiuKavP4tm.jpg/"
+          },
+          {
+            "name": "Mahershala Ali",
+            "order": 19,
+            "role": "Uncle Aaron (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg/"
+          },
+          {
+            "name": "J.K. Simmons",
+            "order": 20,
+            "role": "J. Jonah Jameson (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg/"
+          },
+          {
+            "name": "Donald Glover",
+            "order": 21,
+            "role": "Aaron Davis",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fjqVkQfeeEmdga1G0jpBwwXXwwSK.jpg/"
+          },
+          {
+            "name": "Elizabeth Perkins",
+            "order": 22,
+            "role": "May / Quippy Spider-Person (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvTWYllD9V76rgv9XAbtkkjjeunG.jpg/"
+          },
+          {
+            "name": "Kathryn Hahn",
+            "order": 23,
+            "role": "Doc Ock (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9sVllAKfEls3SJD3GoPm2JEZoa5.jpg/"
+          },
+          {
+            "name": "Ayo Edebiri",
+            "order": 24,
+            "role": "Glory (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5KT566gDowCIvZyrl3fWW1qYqkS.jpg/"
+          },
+          {
+            "name": "Nicole Delaney",
+            "order": 25,
+            "role": "MJ (voice)"
+          },
+          {
+            "name": "Antonina Lentini",
+            "order": 26,
+            "role": "Betty (voice)"
+          },
+          {
+            "name": "Atsuko Okatsuka",
+            "order": 27,
+            "role": "Yuri (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fiHMzMqLfiKcyOvXcR4KekkS6vII.jpg/"
+          },
+          {
+            "name": "Peter Sohn",
+            "order": 28,
+            "role": "Ganke (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8cQGViF2lXlcsAIvFUMWboXYXIu.jpg/"
+          },
+          {
+            "name": "Melissa Sturm",
+            "order": 29,
+            "role": "Mary Jane (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkIOM0WSOAczBIMQE9y6hTrOkDUS.jpg/"
+          },
+          {
+            "name": "Lorraine Velez",
+            "order": 30,
+            "role": "Maria (voice)"
+          },
+          {
+            "name": "Nic Novicki",
+            "order": 31,
+            "role": "Lego Spider-Man (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frBStZ7SkvUBeBFibMV1NV6rNJYe.jpg/"
+          },
+          {
+            "name": "Taran Killam",
+            "order": 32,
+            "role": "Web-Slinger (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzE4JnkNgs7Yx6zOzdOcxHB4vA1t.jpg/"
+          },
+          {
+            "name": "Metro Boomin",
+            "order": 33,
+            "role": "Metro Spider-Man (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fmS1z3fgaEEbwpGLbWjk8oSJ2XuN.jpg/"
+          },
+          {
+            "name": "Josh Keaton",
+            "order": 34,
+            "role": "Spectacular Spider-Man (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9ss2EXbN0VarF1tM2Qotwxy6fJs.jpg/"
+          },
+          {
+            "name": "Sofia Barclay",
+            "order": 35,
+            "role": "Malala Windsor: Spider-UK (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9cm0R93QKdG3Rhta41ZwSoZhOPe.jpg/"
+          },
+          {
+            "name": "Danielle Perez",
+            "order": 36,
+            "role": "Charlotte Webber: Sun-Spider (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhFCONhnCIigLIgPQzPylLp5iNPu.jpg/"
+          },
+          {
+            "name": "Yuri Lowenthal",
+            "order": 37,
+            "role": "Insomniac Spider-Man (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faLgXm0kbbIC8I5OBmnsK8TgVKwy.jpg/"
+          },
+          {
+            "name": "Rita Rani Ahuja",
+            "order": 38,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Ismail Bashey",
+            "order": 39,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8siTb4IKjtbPinJvVygWlShdr0A.jpg/"
+          },
+          {
+            "name": "Oscar Camacho",
+            "order": 40,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fckY22gfNS6bCERRFK0jqU57CqFA.jpg/"
+          },
+          {
+            "name": "Freddy Ferrari",
+            "order": 41,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Kerry Gutierrez",
+            "order": 42,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Kamal Khan",
+            "order": 43,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Angelo Sekou Kouyate",
+            "order": 44,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Andrew Leviton",
+            "order": 45,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "David Michie",
+            "order": 46,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f87z5A1ylR4I3jB8lzrLgfILYdYu.jpg/"
+          },
+          {
+            "name": "Sumit Naig",
+            "order": 47,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Juan Pacheco",
+            "order": 48,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fffXpriyG5QbmjCLmQ4boEjxc1ID.jpg/"
+          },
+          {
+            "name": "Chrystee Pharris",
+            "order": 49,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2EdWOWrlirgaXsLatarQQOrOQkl.jpg/"
+          },
+          {
+            "name": "Ben Pronsky",
+            "order": 50,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fd4I1Y8LiELi6mY8A9RLX0ZHfdlL.jpg/"
+          },
+          {
+            "name": "Al Rodrigo",
+            "order": 51,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkyQSlxHVnla3MfXzs2XhKCRHWMw.jpg/"
+          },
+          {
+            "name": "Stan Sellers",
+            "order": 52,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2va92n2gYR0InEBPkZNSAV8NTuC.jpg/"
+          },
+          {
+            "name": "Warren Sroka",
+            "order": 53,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgC6YSW8SLmqMU7rZ5W1xpZ9c0w6.jpg/"
+          },
+          {
+            "name": "Jasper Johannes Andrews",
+            "order": 54,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Gredel Berrios Calladine",
+            "order": 55,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Natalia Castellanos",
+            "order": 56,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Russell Tyre Francis",
+            "order": 57,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Deepti Gupta",
+            "order": 58,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkMvUaVfUXBbFpoRTwIiaeKlg1vj.jpg/"
+          },
+          {
+            "name": "Sohm Kapila",
+            "order": 59,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fySLjCzMYmeMKiP0xVO48F2aJLTE.jpg/"
+          },
+          {
+            "name": "Pradnya Kuwadekar",
+            "order": 60,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Ashley London",
+            "order": 61,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Christopher Miller",
+            "order": 62,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg/"
+          },
+          {
+            "name": "Andrea Navedo",
+            "order": 63,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fjTEuBC4T3lQiN0Uc8SOxc9rcxvo.jpg/"
+          },
+          {
+            "name": "Lakshmi Patel",
+            "order": 64,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Jacqueline Pinol",
+            "order": 65,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fcqGFRdObF3UkMc3aTTA8fYSHQez.jpg/"
+          },
+          {
+            "name": "Eliyas Qureshi",
+            "order": 66,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fy2qe3r9HueD3CcYw4uwJk0ae5C6.jpg/"
+          },
+          {
+            "name": "Lashana Rodriguez",
+            "order": 67,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Jaswant Dev Shrestha",
+            "order": 68,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fblaiUznOljVlY3Nl9bEYkv7svtI.jpg/"
+          },
+          {
+            "name": "Libby Thomas Dickey",
+            "order": 69,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Jason Linere-White",
+            "order": 70,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpAFtUbLVa2uhnHvosjlW4c0QvQg.jpg/"
+          },
+          {
+            "name": "Sitara Attaie",
+            "order": 71,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fiPCRQ4UUh37otbd5cj982zq33rq.jpg/"
+          },
+          {
+            "name": "Mayuri Bhandari",
+            "order": 72,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "June Christopher",
+            "order": 73,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ff2JzxHGRfS0TL6kysHfVfaAeruP.jpg/"
+          },
+          {
+            "name": "Michelle Jubilee Gonzalez",
+            "order": 74,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frs6h9fvozdaRa2uCFKtPRQb9bFa.jpg/"
+          },
+          {
+            "name": "Marabina Jaimes",
+            "order": 75,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxhp7Hmz2kGjfLD7UUi2nLLypAjt.jpg/"
+          },
+          {
+            "name": "Rez Kempton",
+            "order": 76,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fd7r7wjKjs3dYiq036oFaGIZRbC9.jpg/"
+          },
+          {
+            "name": "Lex Lang",
+            "order": 77,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhrgjiwtrnI6meAg2Q1eTGpyTrDX.jpg/"
+          },
+          {
+            "name": "Phil Lord",
+            "order": 78,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyGLAUCnWwB0cQM0Ivb5FKzv3tr4.jpg/"
+          },
+          {
+            "name": "Richard Miro",
+            "order": 79,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Doug Nicholas",
+            "order": 80,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Shakira Ja'nai Paye",
+            "order": 81,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2flLfE7s8uX0aklFCHeyJEDfgpJOl.jpg/"
+          },
+          {
+            "name": "James Pirri",
+            "order": 82,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Marley Ralph",
+            "order": 83,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Michelle Ruff",
+            "order": 84,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fwO6VvUeVRlVm2N4lutsz6ayBxL5.jpg/"
+          },
+          {
+            "name": "Dennis Singletary",
+            "order": 85,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frlUQcql7XFfIWBNccKvIW0WnIPW.jpg/"
+          },
+          {
+            "name": "Amanda Troop",
+            "order": 86,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2foIiz7YCwDCphqCWNA6zUzl30WQ9.jpg/"
+          },
+          {
+            "name": "Ruth Zalduondo",
+            "order": 87,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fsf9FN5qZg07PdRR49N1ijBmcMap.jpg/"
+          },
+          {
+            "name": "Kimberly Bailey",
+            "order": 88,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6es4CpmmlA7j6VCxpVvlSTfvi76.jpg/"
+          },
+          {
+            "name": "Sanjay Chandani",
+            "order": 89,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frMNrvpeqAETZqvQivewVYDhK5pS.jpg/"
+          },
+          {
+            "name": "Melanie Duke",
+            "order": 90,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Jorge R. Gutierrez",
+            "order": 91,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdhL3pHR1WkbONH9dD4Sya9DbrXq.jpg/"
+          },
+          {
+            "name": "Miguel Jiron",
+            "order": 92,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fsBEHuSRFK6T9DqBYQX93qSAFAFU.jpg/"
+          },
+          {
+            "name": "Deepti Kingra-Mickelsen",
+            "order": 93,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Luisa Leschin",
+            "order": 94,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgMCsy4g818oR5V5Q6B4TQvYQAOr.jpg/"
+          },
+          {
+            "name": "Caitlin McKenna",
+            "order": 95,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fcPfk4htR9X7gUnr1jYsKs0Y5qBq.jpg/"
+          },
+          {
+            "name": "Andrew Morgado",
+            "order": 96,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frDkWTPcsFtw5MQCi1qxSXXZlXG2.jpg/"
+          },
+          {
+            "name": "Arthur Ortiz",
+            "order": 97,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f26L5ZNu9uV9onUB04RbEeKwB085.jpg/"
+          },
+          {
+            "name": "Eliana A. Perez",
+            "order": 98,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Juan Pope",
+            "order": 99,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fucc4oGk140GBPVTkWNkreV0lxlw.jpg/"
+          },
+          {
+            "name": "Mike Rianda",
+            "order": 100,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1MEH4XJ7fSkwA5oCEyx3CckbIva.jpg/"
+          },
+          {
+            "name": "Erika Scopelli",
+            "order": 101,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Narender Sood",
+            "order": 102,
+            "role": "Additional Voices (voice)"
+          },
+          {
+            "name": "Cedric L. Williams",
+            "order": 103,
+            "role": "Additional Voices (voice)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fsBxfuNnJMHq60KJP1HRYxLSRBR6.jpg/"
+          },
+          {
+            "name": "Kimiko Glenn",
+            "order": 104,
+            "role": "Peni Parker (voice) (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6QnVIyHKbzx0ZsUr3BmIwnZxujL.jpg/"
+          },
+          {
+            "name": "Peggy Lu",
+            "order": 105,
+            "role": "Mrs. Chen (archive footage) (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fng5eaDcOf9kSwIYGNmwF9wEfIHp.jpg/"
+          },
+          {
+            "name": "Andrew Garfield",
+            "order": 106,
+            "role": "Peter Parker / Spider-Man (archive footage) (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg/"
+          },
+          {
+            "name": "Denis Leary",
+            "order": 107,
+            "role": "Captain Stacy (archive footage) (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnAqHuIw8z1QodcXdaJQShKogVFa.jpg/"
+          },
+          {
+            "name": "Tobey Maguire",
+            "order": 108,
+            "role": "Peter Parker / Spider-Man (archive footage) (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkOJelnLSb89SeivbOCt1l94Hz2d.jpg/"
+          },
+          {
+            "name": "Cliff Robertson",
+            "order": 109,
+            "role": "Ben Parker (archive footage) (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8pH2RWCPtXKzT9P33MbzgnzPlF0.jpg/"
+          },
+          {
+            "name": "Alfred Molina",
+            "order": 110,
+            "role": "Doctor Octopus (voice) (archive footage) (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnJo91Czesn6z0d0pkfbDoVZY3sg.jpg/"
+          },
+          {
+            "name": "Post Malone",
+            "order": 111,
+            "role": "Brooklyn Bystander (voice) (archive footage) (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fv25LUebWdx60p6mMy1OzIHc0EVs.jpg/"
+          },
+          {
+            "name": "John Mulaney",
+            "order": 112,
+            "role": "Peter Porker / Spider-Ham (voice) (archive footage) (uncredited)",
+            "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffag9JGgIVSeraG4FQ4WSmq4qCIA.jpg/"
+          }
+        ],
+        "dateadded": "2023-08-09 18:01:20",
+        "director": ["Joaquim Dos Santos", "Justin K. Thompson", "Kemp Powers"],
+        "fanart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f569094%2fmoviebackground%2fspider-man-across-the-spider-verse-63a438728f229.jpg/",
+        "file": "/Movies/Spider-Man: Across the Spider-Verse (2023)/Spider-Man.Across.The.Spider-Verse.2023.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv",
+        "genre": ["Animation", "Action", "Adventure"],
+        "label": "Spider-Man: Across the Spider-Verse",
+        "lastplayed": "",
+        "movieid": 534,
+        "mpaa": "Rated PG",
+        "playcount": 0,
+        "rating": 8.434000015258789,
+        "resume": {
+          "position": 0,
+          "total": 0
+        },
+        "set": "Spider-Man: Spider-Verse Collection",
+        "studio": ["Columbia Pictures"],
+        "tag": [
+          "based on comic",
+          "sequel",
+          "superhero",
+          "super power",
+          "teen superhero",
+          "sacrifice",
+          "comic book",
+          "super villain",
+          "spider bite",
+          "superhero team",
+          "alternate dimension",
+          "brooklyn, new york city",
+          "india",
+          "alternate universe",
+          "alternate version",
+          "cliffhanger",
+          "chelsea",
+          "female superhero",
+          "interdimensional travel",
+          "defying fate"
+        ],
+        "title": "Spider-Man: Across the Spider-Verse",
+        "writer": ["Dave Callaham", "Phil Lord", "Christopher Miller"],
+        "year": 2023
+      }
+    ]
+  }
+}
