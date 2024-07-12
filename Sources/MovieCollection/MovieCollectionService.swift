@@ -45,7 +45,9 @@ struct MovieCollectionService {
     }
 
     func getRandom() async throws -> MovieCollectionResponse {
-        let requestSort: RequestSort = RequestSort(method: "random", order: "descending");
+        let requestSort: RequestSort = RequestSort(
+            method: "random", order: "descending"
+        );
         return try await self.getMovies(requestSort: requestSort);
     }
 

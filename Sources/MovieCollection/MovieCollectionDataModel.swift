@@ -23,6 +23,7 @@ struct RequestParams: Codable {
 struct RequestSort: Codable {
     var method: String;
     var order: String;
+    var ignorearticle: Bool = true;
 }
 struct RequestFilter: Codable {
     var `operator`: String;
