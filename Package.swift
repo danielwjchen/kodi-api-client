@@ -17,6 +17,8 @@ let package = Package(
                 .process("Resources/api-schema.json"),
                 .process("Resources/episode.recently-added.request.json"),
                 .process("Resources/episode.recently-added.response.json"),
+                .process("Resources/movie.request.json"),
+                .process("Resources/movie.response.json"),
                 .process("Resources/movies.continue-watching.request.json"),
                 .process("Resources/movies.continue-watching.response.json"),
                 .process("Resources/movies.recently-added.request.json"),

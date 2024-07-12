@@ -1,0 +1,36 @@
+{
+  "jsonrpc": "2.0",
+  "method": "VideoLibrary.GetMovieDetails",
+  "id": "1720750628621",
+  "params": {
+    "movieid": 211,
+    "properties": [
+      "title",
+      "art",
+      "playcount",
+      "lastplayed",
+      "dateadded",
+      "resume",
+      "rating",
+      "year",
+      "file",
+      "genre",
+      "writer",
+      "director",
+      "cast",
+      "set",
+      "studio",
+      "mpaa",
+      "tag",
+      "plotoutline",
+      "imdbnumber",
+      "runtime",
+      "streamdetails",
+      "plot",
+      "trailer",
+      "sorttitle",
+      "originaltitle",
+      "country"
+    ]
+  }
+}
