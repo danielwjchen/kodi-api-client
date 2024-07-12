@@ -1,0 +1,40 @@
+
+enum VideoFieldsMovie: String, Codable {
+    case title
+    case genre
+    case year
+    case rating
+    case director
+    case trailer
+    case tagline
+    case plot
+    case plotoutline
+    case originaltitle
+    case lastplayed
+    case playcount
+    case writer
+    case studio
+    case mpaa
+    case cast
+    case country
+    case imdbnumber
+    case runtime
+    case set
+    case showlink
+    case streamdetails
+    case top250
+    case votes
+    case fanart
+    case thumbnail
+    case file
+    case sorttitle
+    case resume
+    case setid
+    case dateadded
+    case tag
+    case art
+    case userrating
+    case ratings
+    case premiered
+    case uniquei
+}

@@ -1,6 +1,5 @@
 //
 //  MovieCollectionDataModel.swift
-//  Test VLC Player
 //
 //  Created by Daniel Chen on 7/4/24.
 //
@@ -14,7 +13,7 @@ struct RequestLimits: Codable {
 }
 
 struct RequestParams: Codable {
-    var properties: [String];
+    var properties: [VideoFieldsMovie];
     var limits: RequestLimits;
     var sort: RequestSort;
     var filter: RequestFilter?;
@@ -93,24 +92,24 @@ struct MovieCollectionRequest: Request, Codable {
     var method: String = "VideoLibrary.GetMovies";
     var params: RequestParams = RequestParams(
         properties: [
-            "title",
-            "art",
-            "playcount",
-            "lastplayed",
-            "dateadded",
-            "resume",
-            "rating",
-            "year",
-            "file",
-            "genre",
-            "writer",
-            "director",
-            "cast",
-            "set",
-            "studio",
-            "mpaa",
-            "tag",
-            "fanart"
+            .title,
+            .art,
+            .playcount,
+            .lastplayed,
+            .dateadded,
+            .resume,
+            .rating,
+            .year,
+            .file,
+            .genre,
+            .writer,
+            .director,
+            .cast,
+            .set,
+            .studio,
+            .mpaa,
+            .tag,
+            .fanart
         ],
         limits: RequestLimits(start: 0, end: 10),
         sort: RequestSort(method: .dateadded, order: .descending)

@@ -40,13 +40,11 @@ class CodableTests: XCTestCase {
         );
         movieCollectionRequest.params.filter = RequestFilter(operator: "is", field: "playcount", value: "0")
         let encoder: JSONEncoder = JSONEncoder()
-        encoder.outputFormatting = .prettyPrinted
         
         do {
             let data: Data = try encoder.encode(movieCollectionRequest)
             let jsonString: String? = String(data: data, encoding: .utf8)
             XCTAssertNotNil(jsonString)
-            print(jsonString!) // Optional: to see the JSON string in the console
         } catch {
             XCTFail("Encoding failed: \(error.localizedDescription)")
         }
