@@ -15,7 +15,7 @@ class CodableTests: XCTestCase {
 
         // Decode the JSON data
         do {
-            let response = try decoder.decode(KodiApiClient.MovieCollectionResponse.self, from: jsonData)
+            let response = try decoder.decode(MovieCollectionResponse.self, from: jsonData)
             XCTAssertEqual(response.result.movies.count, 14)
         } catch let error as DecodingError{
             switch error {
@@ -34,18 +34,21 @@ class CodableTests: XCTestCase {
         }
     }
     
-    // func testPersonEncoding() throws {
-    //     let person = KodiApiClient.MovieCollectionResponse(name: "John Doe", age: 30)
-    //     let encoder = JSONEncoder()
-    //     encoder.outputFormatting = .prettyPrinted
+    func testMovieCollectionRequestEncoding() throws {
+        var movieCollectionRequest: MovieCollectionRequest = MovieCollectionRequest(
+            id: getId()
+        );
+        movieCollectionRequest.params.filter = RequestFilter(operator: "is", field: "playcount", value: "0")
+        let encoder: JSONEncoder = JSONEncoder()
+        encoder.outputFormatting = .prettyPrinted
         
-    //     do {
-    //         let data = try encoder.encode(person)
-    //         let jsonString = String(data: data, encoding: .utf8)
-    //         XCTAssertNotNil(jsonString)
-    //         print(jsonString!) // Optional: to see the JSON string in the console
-    //     } catch {
-    //         XCTFail("Encoding failed: \(error.localizedDescription)")
-    //     }
-    // }
+        do {
+            let data: Data = try encoder.encode(movieCollectionRequest)
+            let jsonString: String? = String(data: data, encoding: .utf8)
+            XCTAssertNotNil(jsonString)
+            print(jsonString!) // Optional: to see the JSON string in the console
+        } catch {
+            XCTFail("Encoding failed: \(error.localizedDescription)")
+        }
+    }
 }
