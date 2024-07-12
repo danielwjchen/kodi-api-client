@@ -1,12 +1,12 @@
 import XCTest
 @testable import KodiApiClient
 
-class MovieCollectionDataModelTests: XCTestCase {
+class MovieDataModelTests: XCTestCase {
     
-    func testMovieCollectionResponseDecodingFromFile() throws {
+    func testMovieResponseDecodingFromFile() throws {
         // Load the JSON file
-        guard let url = Bundle.module.url(forResource: "movies.recently-added.response", withExtension: "json") else {
-            XCTFail("Missing file: movies.recently-added.json")
+        guard let url = Bundle.module.url(forResource: "movie.response", withExtension: "json") else {
+            XCTFail("Missing file: movie.response.json")
             return
         }
         
@@ -15,8 +15,8 @@ class MovieCollectionDataModelTests: XCTestCase {
 
         // Decode the JSON data
         do {
-            let response = try decoder.decode(MovieCollectionResponse.self, from: jsonData)
-            XCTAssertEqual(response.result.movies.count, 14)
+            let response = try decoder.decode(MovieResponse.self, from: jsonData)
+            XCTAssertEqual(response.result.moviedetails.label, "Apollo 13")
         } catch let error as DecodingError{
             switch error {
                 case .typeMismatch(let key, let value):
@@ -34,15 +34,16 @@ class MovieCollectionDataModelTests: XCTestCase {
         }
     }
     
-    func testMovieCollectionRequestEncoding() throws {
-        var movieCollectionRequest: MovieCollectionRequest = MovieCollectionRequest(
-            id: getId()
+    func testMovieRequestEncoding() throws {
+        let movieRequest: MovieRequest = MovieRequest(
+            id: getId(), params: MovieRequestParams(
+                movieid: 122, properties: [.art,.cast,.country]
+            )
         );
-        movieCollectionRequest.params.filter = RequestFilter(operator: "is", field: "playcount", value: "0")
         let encoder: JSONEncoder = JSONEncoder()
         
         do {
-            let data: Data = try encoder.encode(movieCollectionRequest)
+            let data: Data = try encoder.encode(movieRequest)
             let jsonString: String? = String(data: data, encoding: .utf8)
             XCTAssertNotNil(jsonString)
         } catch {

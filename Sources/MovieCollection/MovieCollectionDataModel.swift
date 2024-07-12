@@ -6,12 +6,6 @@
 
 import Foundation
 
-
-struct RequestLimits: Codable {
-    var start: Int;
-    var end: Int;
-}
-
 struct RequestParams: Codable {
     var properties: [VideoFieldsMovie];
     var limits: RequestLimits;
@@ -19,71 +13,10 @@ struct RequestParams: Codable {
     var filter: RequestFilter?;
 }
 
-struct RequestSort: Codable {
-    var method: Method = .none;
-    var order: Order = .ascending;
-    var ignorearticle: Bool = true;
-    enum Order: String, Codable {
-        case ascending
-        case descending
-    }
-    enum Method: String, Codable {
-        case none
-        case label
-        case date
-        case size
-        case file
-        case path
-        case drivetype
-        case title
-        case track
-        case time
-        case artist
-        case album
-        case albumtype
-        case genre
-        case country
-        case year
-        case rating
-        case userrating
-        case votes
-        case top250
-        case programcount
-        case playlist
-        case episode
-        case season
-        case totalepisodes
-        case watchedepisodes
-        case tvshowstatus
-        case tvshowtitle
-        case sorttitle
-        case productioncode
-        case mpaa
-        case studio
-        case dateadded
-        case lastplayed
-        case playcount
-        case listeners
-        case bitrate
-        case random
-        case totaldiscs
-        case originaldate
-        case bpm
-        case originaltitl
-
-    }
-}
 struct RequestFilter: Codable {
     var `operator`: String;
     var field: String;
     var value: String;
-}
-
-protocol Request {
-    var id: Int {get set};
-    var jsonrpc: String {get};
-    var method: String {get};
-    var params: RequestParams {get};
 }
 
 struct MovieCollectionRequest: Request, Codable {
@@ -114,12 +47,6 @@ struct MovieCollectionRequest: Request, Codable {
         limits: RequestLimits(start: 0, end: 10),
         sort: RequestSort(method: .dateadded, order: .descending)
     );
-}
-
-struct ResponseLimits: Codable {
-    var end: Int?;
-    var start: Int?;
-    var total: Int?;
 }
 
 struct MediaArtWork: Codable {
@@ -176,7 +103,7 @@ struct Movie: Codable {
     // var dateadded: Date;
     var dateadded: String;
     var director: [String];
-    var fanart: String;
+    var fanart: String?;
     var file: String;
     var genre: [String];
     var label: String;
@@ -184,12 +111,17 @@ struct Movie: Codable {
     var movieid: Int;
     var mpaa: String;
     var playcount: Int;
+    var plot: String?;
+    var plotoutline: String?;
     var rating: Double;
     var resume: VideoResume;
+    var runtime: Int?;
     var set: String;
+    var sorttitle: String?;
     var studio: [String];
     var tag: [String];
     var title: String;
+    var trailer: String?;
     var writer: [String];
     var year: Int;
 }
