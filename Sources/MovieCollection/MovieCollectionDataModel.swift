@@ -98,32 +98,32 @@ struct VideoResume: Codable {
 }
 
 struct Movie: Codable {
-    var art: MediaArtWork;
-    var cast: [VideoCast];
+    var art: MediaArtWork?;
+    var cast: [VideoCast]?;
     // var dateadded: Date;
-    var dateadded: String;
-    var director: [String];
+    var dateadded: String?;
+    var director: [String]?;
     var fanart: String?;
-    var file: String;
-    var genre: [String];
-    var label: String;
-    var lastplayed: String;
-    var movieid: Int;
-    var mpaa: String;
-    var playcount: Int;
+    var file: String?;
+    var genre: [String]?;
+    var label: String?;
+    var lastplayed: String?;
+    var movieid: Int?;
+    var mpaa: String?;
+    var playcount: Int?;
     var plot: String?;
     var plotoutline: String?;
-    var rating: Double;
-    var resume: VideoResume;
+    var rating: Double?;
+    var resume: VideoResume?;
     var runtime: Int?;
-    var set: String;
+    var set: String?;
     var sorttitle: String?;
-    var studio: [String];
-    var tag: [String];
-    var title: String;
+    var studio: [String]?;
+    var tag: [String]?;
+    var title: String?;
     var trailer: String?;
-    var writer: [String];
-    var year: Int;
+    var writer: [String]?;
+    var year: Int?;
 }
 
 
