@@ -36,7 +36,15 @@ struct MovieDetailsService {
                     .studio,
                     .mpaa,
                     .tag,
-                    .fanart
+                    .plotoutline,
+                    .imdbnumber,
+                    .runtime,
+                    .streamdetails,
+                    .plot,
+                    .trailer,
+                    .sorttitle,
+                    .originaltitle,
+                    .country,
                 ]
             )
         );
