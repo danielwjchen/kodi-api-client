@@ -6,19 +6,6 @@
 
 import Foundation
 
-struct RequestParams: Codable {
-    var properties: [VideoFieldsMovie];
-    var limits: RequestLimits;
-    var sort: RequestSort;
-    var filter: RequestFilter?;
-}
-
-struct RequestFilter: Codable {
-    var `operator`: String;
-    var field: String;
-    var value: String;
-}
-
 struct MovieCollectionRequest: Request, Codable {
     var jsonrpc: String = "2.0";
     var id: Int;
@@ -47,18 +34,6 @@ struct MovieCollectionRequest: Request, Codable {
         limits: RequestLimits(start: 0, end: 10),
         sort: RequestSort(method: .dateadded, order: .descending)
     );
-}
-
-struct VideoCast: Codable {
-    var name: String;
-    var order: Int;
-    var role: String;
-    var thumbnail: String?;
-}
-
-struct VideoResume: Codable {
-    var position: Int;
-    var total: Int;
 }
 
 struct MovieCollectionResponseResult: Codable {

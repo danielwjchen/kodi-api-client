@@ -8,7 +8,7 @@ struct MovieDetailsRequestParams: Codable {
     var properties: [VideoFieldsMovie];
 }
 
-struct MovieDetailsRequest: Codable {
+struct MovieDetailsRequest: Request, Codable {
     var jsonrpc: String = "2.0";
     var id: Int;
     var method: String = "VideoLibrary.GetMovieDetails";

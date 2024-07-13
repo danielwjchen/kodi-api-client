@@ -1,10 +1,4 @@
 
-
-struct RequestLimits: Codable {
-    var start: Int;
-    var end: Int;
-}
-
 struct RequestSort: Codable {
     var method: Method = .none;
     var order: Order = .ascending;
@@ -57,17 +51,4 @@ struct RequestSort: Codable {
         case bpm
         case originaltitle
     }
-}
-
-protocol Request {
-    var id: Int {get set};
-    var jsonrpc: String {get};
-    var method: String {get};
-    var params: RequestParams {get};
-}
-
-struct ResponseLimits: Codable {
-    var end: Int?;
-    var start: Int?;
-    var total: Int?;
 }
