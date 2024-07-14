@@ -36,10 +36,10 @@ class MovieCollectionDataModelTests: XCTestCase {
     
     func testMovieCollectionRequestEncoding() throws {
         let method: String = "VideoLibrary.GetMovies";
-        let movieCollectionRequest: Request<MovieRequestParams> = Request<MovieRequestParams>(
+        let movieCollectionRequest: Request<MovieCollectionRequestParams> = Request<MovieCollectionRequestParams>(
                 id: getId(),
                 method: method,
-                params: MovieRequestParams(
+                params: MovieCollectionRequestParams(
                     properties: [
                         .title,
                         .art,

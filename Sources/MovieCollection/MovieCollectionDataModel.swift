@@ -1,6 +1,6 @@
 import Foundation
 
-typealias MovieRequestParams = RequestParams<MovieFields>;
+typealias MovieCollectionRequestParams = RequestParams<MovieFields>;
 
 struct MovieCollectionResponseResult: Codable {
     var limits: ResponseLimits;
