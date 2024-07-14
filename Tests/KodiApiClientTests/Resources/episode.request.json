@@ -1,0 +1,31 @@
+{
+  "jsonrpc": "2.0",
+  "method": "VideoLibrary.GetEpisodeDetails",
+  "id": "1720992224279",
+  "params": {
+    "episodeid": 165,
+    "properties": [
+      "title",
+      "thumbnail",
+      "playcount",
+      "lastplayed",
+      "dateadded",
+      "episode",
+      "season",
+      "rating",
+      "file",
+      "cast",
+      "showtitle",
+      "tvshowid",
+      "uniqueid",
+      "resume",
+      "firstaired",
+      "fanart",
+      "plot",
+      "director",
+      "writer",
+      "runtime",
+      "streamdetails"
+    ]
+  }
+}

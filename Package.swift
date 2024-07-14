@@ -21,6 +21,8 @@ let package = Package(
             dependencies: ["KodiApiClient"],
             resources: [
                 .process("Resources/api-schema.json"),
+                .process("Resources/episode.request.json"),
+                .process("Resources/episode.response.json"),
                 .process("Resources/episodes.recently-added.request.json"),
                 .process("Resources/episodes.recently-added.response.json"),
                 .process("Resources/movie.request.json"),

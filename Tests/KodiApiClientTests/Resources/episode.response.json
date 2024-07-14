@@ -1,0 +1,197 @@
+{
+  "id": "1720992224279",
+  "jsonrpc": "2.0",
+  "result": {
+    "episodedetails": {
+      "cast": [
+        {
+          "name": "Mackenzie Davis",
+          "order": 0,
+          "role": "Kirsten Raymonde",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fekQbEIKh26jbz17P0wwLbo6uNs9.jpg/"
+        },
+        {
+          "name": "Himesh Patel",
+          "order": 1,
+          "role": "Jeevan Chaudhary",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffC6diZ0i3Epot9dRl7b2SSegf4L.jpg/"
+        },
+        {
+          "name": "Matilda Lawler",
+          "order": 2,
+          "role": "Young Kirsten",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5zxaZn7l3ulurRy6SW6vRcS8meV.jpg/"
+        },
+        {
+          "name": "David Wilmot",
+          "order": 3,
+          "role": "Clark Thompson",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fepb46N0iJyAmSOguMdFn6qQGSsy.jpg/"
+        },
+        {
+          "name": "Nabhaan Rizwan",
+          "order": 4,
+          "role": "Frank Chaudhary",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fljDpNmRnx9Mxe6DZbOMVZlGVXAN.jpg/"
+        },
+        {
+          "name": "Daniel Zovatto",
+          "order": 5,
+          "role": "The Prophet",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6B9hny2s7frxtbRqrHqOT7ESB4A.jpg/"
+        },
+        {
+          "name": "Philippine Velge",
+          "order": 6,
+          "role": "Alexandra",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgqTkAEIlcDisOnfuyusqZtBb1IG.jpg/"
+        },
+        {
+          "name": "Lori Petty",
+          "order": 7,
+          "role": "Sarah / The Conductor",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbmJFh4VxRii7h7jpo4YVC6BFeVd.jpg/"
+        },
+        {
+          "name": "David Cross",
+          "order": 8,
+          "role": "Gil",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpsU22y9yP3uheVc4LWeHjLkeqEM.jpg/"
+        },
+        {
+          "name": "Enrico Colantoni",
+          "order": 10,
+          "role": "Brian",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyxxy8IrGRwnRPbLmgyfwF26Feve.jpg/"
+        },
+        {
+          "name": "Joe Pingue",
+          "order": 11,
+          "role": "Dieter",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fcA2OocnwkH9bO1rT6TcH3daB6r4.jpg/"
+        },
+        {
+          "name": "Julian Obradors",
+          "order": 14,
+          "role": "Tyler Leander"
+        },
+        {
+          "name": "Abigale Jull",
+          "order": 511,
+          "role": "Undersea Girl"
+        },
+        {
+          "name": "Jackson Jull",
+          "order": 512,
+          "role": "Undersea Boy"
+        },
+        {
+          "name": "Sarah Orenstein",
+          "order": 522,
+          "role": "Katrina",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fweGxqigK04SxTfKXNex8YFFlMSM.jpg/"
+        },
+        {
+          "name": "Kate Moyer",
+          "order": 535,
+          "role": "Haley Butterscotch",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1ZOuMRwWihDTMOe47NrsZdWlU09.jpg/"
+        },
+        {
+          "name": "Prince Amponsah",
+          "order": 551,
+          "role": "August",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faG4MUVupzicDnykQGhlwdddIMWh.jpg/"
+        },
+        {
+          "name": "Deborah Cox",
+          "order": 552,
+          "role": "Wendy",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1gP8DmE0Tp2TrbHaE6WUu692pdT.jpg/"
+        },
+        {
+          "name": "Dylan Taylor",
+          "order": 553,
+          "role": "Dan",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkXboHqwzfsoi1V7PO5yQ6BGtp89.jpg/"
+        },
+        {
+          "name": "Ajahnis Charley",
+          "order": 554,
+          "role": "Chrysanthemum"
+        },
+        {
+          "name": "Maxwell McCabe-Lokos",
+          "order": 555,
+          "role": "Vlad",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fc8iSpCzazK7A3LiFas7RWzDLMMV.jpg/"
+        },
+        {
+          "name": "Beau Dixon",
+          "order": 563,
+          "role": "Tuba"
+        },
+        {
+          "name": "Danielle Deadwyler",
+          "order": 564,
+          "role": "Miranda Carroll",
+          "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fifQcCBM5B4dIJdz4B0laO4yQuzU.jpg/"
+        }
+      ],
+      "dateadded": "2022-01-01 14:15:50",
+      "director": ["Helen Shaver"],
+      "episode": 4,
+      "episodeid": 165,
+      "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkiiPOuzjyIe793tgGsM5j5DaRxb.jpg/",
+      "file": "/TV Shows/Station Eleven (2021)/Station.Eleven.S01E04.mkv",
+      "firstaired": "2021-12-23",
+      "label": "Rosencrantz and Guildenstern Aren’t Dead",
+      "lastplayed": "",
+      "playcount": 0,
+      "plot": "After Kirsten nudges the Traveling Symphony off-course to help unravel the mystery of the Prophet, a much grimmer truth is revealed.",
+      "rating": 5.699999809265137,
+      "resume": {
+        "position": 0,
+        "total": 0
+      },
+      "runtime": 2680,
+      "season": 1,
+      "showtitle": "Station Eleven",
+      "streamdetails": {
+        "audio": [
+          {
+            "channels": 6,
+            "codec": "aac",
+            "language": "eng"
+          }
+        ],
+        "subtitle": [
+          {
+            "language": "eng"
+          }
+        ],
+        "video": [
+          {
+            "aspect": 1.7777780294418335,
+            "codec": "hevc",
+            "duration": 2680,
+            "hdrtype": "",
+            "height": 2160,
+            "language": "eng",
+            "stereomode": "",
+            "width": 3840
+          }
+        ]
+      },
+      "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f33HZEuxlC4u7UzlxOxLKKfI7K8u.jpg/",
+      "title": "Rosencrantz and Guildenstern Aren’t Dead",
+      "tvshowid": 2,
+      "uniqueid": {
+        "imdb": "tt10579924",
+        "tmdb": "3395871",
+        "tvdb": "8884143"
+      },
+      "writer": ["Nick Cuse"]
+    }
+  }
+}

@@ -14,7 +14,6 @@ enum EpisodeFields: String, Codable {
     case originaltitle;
     case showtitle;
     case cast;
-    case streamdetails;
     case lastplayed;
     case fanart;
     case thumbnail;
@@ -31,4 +30,5 @@ enum EpisodeFields: String, Codable {
     case ratings;
     case genre;
     case studio;
+    case streamdetails;
 }
