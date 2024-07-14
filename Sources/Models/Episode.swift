@@ -1,7 +1,7 @@
 
 struct Episode: Codable {
     var art: MediaArtWork?;
-    var cast: VideoCast?;
+    var cast: [VideoCast]?;
     var dateadded: String?;
     // var dateadded: Date;
     var director: [String]?;
@@ -15,7 +15,7 @@ struct Episode: Codable {
     var plot: String?;
     var productioncode: String?;
     var playcount: Int?;
-    var rating: Int?;
+    var rating: Double?;
     // var ratings: Any?;
     var resume: VideoResume?;
     var runtime: Int?;
@@ -28,7 +28,7 @@ struct Episode: Codable {
     var studio: [String]?;
     var title: String?;
     var tvshowid: Int?;
-    var uniqueid: Int?;
+    var uniqueid: UniqueIDSet?;
     var userrating: Int?;
     var votes: String?;
     var writer: [String]?;

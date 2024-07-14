@@ -32,7 +32,7 @@ struct Movie: Codable {
     var title: String?;
     var top250: Int?;
     var trailer: String?;
-    var uniqueid: String?;
+    var uniqueid: UniqueIDSet?;
     var votes: String?;
     var writer: [String]?;
     var year: Int?;
