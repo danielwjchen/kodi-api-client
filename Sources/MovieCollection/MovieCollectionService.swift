@@ -5,6 +5,7 @@ struct MovieCollectionService {
     let url: URL;
     let encoder: JSONEncoder = JSONEncoder();
     let decoder: JSONDecoder = JSONDecoder();
+    let method: String = "VideoLibrary.GetMovies";
 
     init(_ baseUrl: String){
         self.baseUrl = baseUrl;
@@ -14,20 +15,40 @@ struct MovieCollectionService {
     func getMovies(
         requestFilter: RequestFilter? = nil,
         requestSort: RequestSort? = nil,
-        RequestLimits: RequestLimits? = nil
+        requestLimits: RequestLimits? = nil
     ) async throws -> MovieCollectionResponse {
-        var movieCollectionRequest: MovieCollectionRequest = MovieCollectionRequest(
-            id: getId()
+        var params: MovieRequestParams = MovieRequestParams(
+            properties: [
+                .title,
+                .art,
+                .playcount,
+                .lastplayed,
+                .dateadded,
+                .resume,
+                .rating,
+                .year,
+                .file,
+                .genre,
+                .writer,
+                .director,
+                .cast,
+                .set,
+                .studio,
+                .mpaa,
+                .tag,
+                .fanart
+            ],
+            limits: requestLimits ?? RequestLimits(),
+            sort: requestSort ?? RequestSort()
+        )
+        if requestFilter != nil {
+            params.filter = requestFilter;
+        }
+        var movieCollectionRequest: Request<MovieRequestParams> = Request<MovieRequestParams>(
+            id: getId(),
+            method: self.method,
+            params: params
         );
-        if let requestFilter: RequestFilter = requestFilter {
-            movieCollectionRequest.params.filter = requestFilter;
-        }
-        if let requestSort: RequestSort = requestSort {
-            movieCollectionRequest.params.sort  = requestSort;
-        }
-        if let requestLimits: RequestLimits = RequestLimits {
-            movieCollectionRequest.params.limits = requestLimits;
-        }
         let httpBody: Data = try self.encoder.encode(movieCollectionRequest);
         let urlRequest: URLRequest = createUrlRequest(
             url: self.url, httpMethod: "POST", httpBody: httpBody

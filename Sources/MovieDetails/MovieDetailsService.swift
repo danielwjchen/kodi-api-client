@@ -5,6 +5,7 @@ struct MovieDetailsService {
     let url: URL;
     let encoder: JSONEncoder = JSONEncoder();
     let decoder: JSONDecoder = JSONDecoder();
+    let method: String = "VideoLibrary.GetMovieDetails";
 
     init(_ baseUrl: String){
         self.baseUrl = baseUrl;
@@ -14,8 +15,9 @@ struct MovieDetailsService {
     func getMovieDetails(
         movieId: Int
     ) async throws -> MovieDetailsResponse {
-        let movieDetailsRequest: MovieDetailsRequest = MovieDetailsRequest(
+        let movieDetailsRequest: Request<MovieDetailsRequestParams> = Request<MovieDetailsRequestParams>(
             id: getId(),
+            method: self.method,
             params: MovieDetailsRequestParams(
                 movieid: movieId,
                 properties: [

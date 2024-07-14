@@ -1,6 +1,7 @@
 
-protocol Request {
-    var id: Int {get set};
-    var jsonrpc: String {get};
-    var method: String {get};
+struct Request<T: Codable>: Codable {
+    var jsonrpc: String = "2.0";
+    var id: Int;
+    var method: String;
+    var params: T;
 }

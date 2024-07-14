@@ -8,14 +8,6 @@ struct MovieDetailsRequestParams: Codable {
     var properties: [MovieFields];
 }
 
-struct MovieDetailsRequest: Request, Codable {
-    var jsonrpc: String = "2.0";
-    var id: Int;
-    var method: String = "VideoLibrary.GetMovieDetails";
-    var params: MovieDetailsRequestParams;
-}
-
-
 struct MovieDetailsResponseResult: Codable {
     var moviedetails: Movie;
 }

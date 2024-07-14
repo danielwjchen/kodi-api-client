@@ -1,5 +1,5 @@
 
 struct RequestLimits: Codable {
-    var start: Int;
-    var end: Int;
+    var start: Int = 0;
+    var end: Int?;
 }

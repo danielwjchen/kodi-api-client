@@ -36,8 +36,10 @@ class MovieDataModelTests: XCTestCase {
     
     func testMovieDetailsRequestEncoding() throws {
         let movieId: Int = 122;
-        let MovieDetailsRequest: MovieDetailsRequest = MovieDetailsRequest(
-            id: getId(), params: MovieDetailsRequestParams(
+        let MovieDetailsRequest: Request<MovieDetailsRequestParams> = Request<MovieDetailsRequestParams>(
+            id: getId(), 
+            method: "VideoLibrary.GetMovieDetails",
+            params: MovieDetailsRequestParams(
                 movieid: movieId, properties: [.art,.cast,.country]
             )
         );

@@ -35,18 +35,49 @@ class MovieCollectionDataModelTests: XCTestCase {
     }
     
     func testMovieCollectionRequestEncoding() throws {
-        var movieCollectionRequest: MovieCollectionRequest = MovieCollectionRequest(
-            id: getId()
-        );
-        movieCollectionRequest.params.filter = RequestFilter(operator: "is", field: "playcount", value: "0")
-        let encoder: JSONEncoder = JSONEncoder()
-        
-        do {
-            let data: Data = try encoder.encode(movieCollectionRequest)
-            let jsonString: String? = String(data: data, encoding: .utf8)
-            XCTAssertNotNil(jsonString)
-        } catch {
-            XCTFail("Encoding failed: \(error.localizedDescription)")
-        }
+        let method: String = "VideoLibrary.GetMovies";
+        let movieCollectionRequest: Request<MovieRequestParams> = Request<MovieRequestParams>(
+                id: getId(),
+                method: method,
+                params: MovieRequestParams(
+                    properties: [
+                        .title,
+                        .art,
+                        .playcount,
+                        .lastplayed,
+                        .dateadded,
+                        .resume,
+                        .rating,
+                        .year,
+                        .file,
+                        .genre,
+                        .writer,
+                        .director,
+                        .cast,
+                        .set,
+                        .studio,
+                        .mpaa,
+                        .tag,
+                        .fanart
+                    ],
+                    limits: RequestLimits(),
+                    sort: RequestSort(),
+                    filter: RequestFilter(operator: "is", field: "playcount", value: "0")
+                )
+            );
+            let encoder: JSONEncoder = JSONEncoder()
+            
+            do {
+                let data: Data = try encoder.encode(movieCollectionRequest)
+                if let jsonString: String = String(data: data, encoding: .utf8) {
+                    let methodString: String = "\"method\":\"\(method)\"";
+                    let containsMethod: Bool = jsonString.contains(methodString);
+                    XCTAssertTrue(containsMethod, methodString);
+                } else {
+                    XCTFail("Unable to convert data to string.")
+                }
+            } catch {
+                XCTFail("Encoding failed: \(error.localizedDescription)")
+            }
     }
 }
