@@ -35,17 +35,23 @@ class MovieDataModelTests: XCTestCase {
     }
     
     func testMovieDetailsRequestEncoding() throws {
+        let movieId: Int = 122;
         let MovieDetailsRequest: MovieDetailsRequest = MovieDetailsRequest(
             id: getId(), params: MovieDetailsRequestParams(
-                movieid: 122, properties: [.art,.cast,.country]
+                movieid: movieId, properties: [.art,.cast,.country]
             )
         );
         let encoder: JSONEncoder = JSONEncoder()
         
         do {
             let data: Data = try encoder.encode(MovieDetailsRequest)
-            let jsonString: String? = String(data: data, encoding: .utf8)
-            XCTAssertNotNil(jsonString)
+            if let jsonString: String = String(data: data, encoding: .utf8) {
+                let movieIdString: String = "\"movieid\":\(movieId)";
+                let containsMovieId: Bool = jsonString.contains(movieIdString);
+                XCTAssertTrue(containsMovieId, "The request payload should contain \(movieIdString)")
+            } else {
+                XCTFail("Unable to convert data to string.")
+            }
         } catch {
             XCTFail("Encoding failed: \(error.localizedDescription)")
         }
