@@ -44,7 +44,7 @@ struct MovieCollectionService {
         if requestFilter != nil {
             params.filter = requestFilter;
         }
-        var movieCollectionRequest: Request<MovieRequestParams> = Request<MovieRequestParams>(
+        let movieCollectionRequest: Request<MovieRequestParams> = Request<MovieRequestParams>(
             id: getId(),
             method: self.method,
             params: params

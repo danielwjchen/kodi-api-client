@@ -14,7 +14,7 @@ struct MovieDetailsService {
 
     func getMovieDetails(
         movieId: Int
-    ) async throws -> MovieDetailsResponse {
+    ) async throws -> Response<MovieDetailsResponseResult> {
         let movieDetailsRequest: Request<MovieDetailsRequestParams> = Request<MovieDetailsRequestParams>(
             id: getId(),
             method: self.method,
@@ -55,8 +55,8 @@ struct MovieDetailsService {
             url: self.url, httpMethod: "POST", httpBody: httpBody
         );
         let (data, _) = try await URLSession.shared.data(for: urlRequest);
-        let result: MovieDetailsResponse  = try! self.decoder.decode(
-            MovieDetailsResponse.self, from: data
+        let result: Response<MovieDetailsResponseResult>  = try! self.decoder.decode(
+            Response<MovieDetailsResponseResult>.self, from: data
         );
         return result;
     }

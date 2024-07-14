@@ -11,9 +11,3 @@ struct MovieDetailsRequestParams: Codable {
 struct MovieDetailsResponseResult: Codable {
     var moviedetails: Movie;
 }
-
-struct MovieDetailsResponse: Codable {
-    var id: Int;
-    var jsonrpc: String = "2.0";
-    var result: MovieDetailsResponseResult;
-}

@@ -15,7 +15,7 @@ class MovieDataModelTests: XCTestCase {
 
         // Decode the JSON data
         do {
-            let response = try decoder.decode(MovieDetailsResponse.self, from: jsonData)
+            let response = try decoder.decode(Response<MovieDetailsResponseResult>.self, from: jsonData)
             XCTAssertEqual(response.result.moviedetails.label, "Apollo 13")
         } catch let error as DecodingError{
             switch error {
