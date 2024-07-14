@@ -1,0 +1,34 @@
+enum EpisodeFields: String, Codable {
+    case title;
+    case plot;
+    case votes;
+    case rating;
+    case writer;
+    case firstaired;
+    case playcount;
+    case runtime;
+    case director;
+    case productioncode;
+    case season;
+    case episode;
+    case originaltitle;
+    case showtitle;
+    case cast;
+    case streamdetails;
+    case lastplayed;
+    case fanart;
+    case thumbnail;
+    case file;
+    case resume;
+    case tvshowid;
+    case dateadded;
+    case uniqueid;
+    case art;
+    case specialsortseason;
+    case specialsortepisode;
+    case userrating;
+    case seasonid;
+    case ratings;
+    case genre;
+    case studio;
+}

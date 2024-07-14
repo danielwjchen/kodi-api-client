@@ -13335,7 +13335,7 @@
             "type": "integer"
           },
           "streamdetails": {
-            "$ref": "Video.Streams"
+            "$ref": "Video.StreamDetails"
           }
         }
       },
@@ -13924,9 +13924,9 @@
         },
         "type": "object"
       },
-      "Video.Streams": {
+      "Video.StreamDetails": {
         "additionalProperties": false,
-        "id": "Video.Streams",
+        "id": "Video.StreamDetails",
         "properties": {
           "audio": {
             "items": {

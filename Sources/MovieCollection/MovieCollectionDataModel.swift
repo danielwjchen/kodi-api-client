@@ -1,16 +1,17 @@
-//
-//  MovieCollectionDataModel.swift
-//
-//  Created by Daniel Chen on 7/4/24.
-//
-
 import Foundation
+
+struct MovieRequestParams: RequestParams {
+    var properties: [MovieFields];
+    var limits: RequestLimits;
+    var sort: RequestSort;
+    var filter: RequestFilter?;
+}
 
 struct MovieCollectionRequest: Request, Codable {
     var jsonrpc: String = "2.0";
     var id: Int;
     var method: String = "VideoLibrary.GetMovies";
-    var params: RequestParams = RequestParams(
+    var params: MovieRequestParams = MovieRequestParams(
         properties: [
             .title,
             .art,

@@ -1,15 +1,21 @@
 // swift-tools-version: 5.10
-// The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
 
 let package = Package(
     name: "KodiApiClient",
     platforms: [.macOS("10.15"),.tvOS("13.0")],
+    // products: [
+    //     .library(
+    //         name: "KodiApiClient",
+    //         targets: ["KodiApiClient"]
+    //     ),
+    // ],
     targets: [
         .executableTarget(
             name: "KodiApiClient",
             path: "Sources"),
+        // .target(name: "KodiApiClient"),
         .testTarget(
             name: "KodiApiClientTests",
             dependencies: ["KodiApiClient"],

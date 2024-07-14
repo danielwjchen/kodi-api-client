@@ -25,6 +25,7 @@ struct Movie: Codable {
     var setid: Int?;
     var showlink: String?;
     var sorttitle: String?;
+    var streamdetails: StreamDetails?;
     var studio: [String]?;
     var tag: [String]?;
     var tagline: String?;

@@ -5,7 +5,7 @@
 //
 struct MovieDetailsRequestParams: Codable {
     var movieid: Int;
-    var properties: [VideoFieldsMovie];
+    var properties: [MovieFields];
 }
 
 struct MovieDetailsRequest: Request, Codable {

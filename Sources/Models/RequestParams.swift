@@ -1,7 +1,6 @@
 
-struct RequestParams: Codable {
-    var properties: [VideoFieldsMovie];
-    var limits: RequestLimits;
-    var sort: RequestSort;
-    var filter: RequestFilter?;
+protocol RequestParams: Codable {
+    var limits: RequestLimits {get set}
+    var sort: RequestSort {get set}
+    var filter: RequestFilter? {get set}
 }
