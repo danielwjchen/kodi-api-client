@@ -1,13 +1,13 @@
 
-struct RequestSort: Codable {
-    var method: Method = .none;
-    var order: Order = .ascending;
-    var ignorearticle: Bool = true;
-    enum Order: String, Codable {
+public struct RequestSort: Codable {
+    public var method: Method = .none;
+    public var order: Order = .ascending;
+    public var ignorearticle: Bool = true;
+    public enum Order: String, Codable {
         case ascending
         case descending
     }
-    enum Method: String, Codable {
+    public enum Method: String, Codable {
         case none
         case label
         case date
@@ -50,5 +50,17 @@ struct RequestSort: Codable {
         case originaldate
         case bpm
         case originaltitle
+    }
+
+    public init() {}
+
+    public init(
+        method: Method = .none,
+        order: Order = .ascending,
+        ignorearticle: Bool = true
+    ) {
+        self.method = method;
+        self.order = order;
+        self.ignorearticle = ignorearticle;
     }
 }

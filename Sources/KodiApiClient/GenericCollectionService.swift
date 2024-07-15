@@ -1,6 +1,6 @@
 import Foundation
 
-struct GenericCollectionService<PropertiesType: Codable, ResultType: Codable> {
+public struct GenericCollectionService<PropertiesType: Codable, ResultType: Codable> {
 
     let baseUrl: String;
     let url: URL;
@@ -9,7 +9,7 @@ struct GenericCollectionService<PropertiesType: Codable, ResultType: Codable> {
     let rpcMethod: String;
     let properties: [PropertiesType];
 
-    init(
+    public init(
         _ baseUrl: String, rpcMethod: String, query: String, 
         properties: [PropertiesType]
     ){
@@ -19,7 +19,7 @@ struct GenericCollectionService<PropertiesType: Codable, ResultType: Codable> {
         self.properties = properties;
     }
 
-    func getCollection(
+    public func getCollection(
         requestFilter: RequestFilter? = nil,
         requestSort: RequestSort? = nil,
         requestLimits: RequestLimits? = nil
@@ -51,23 +51,51 @@ struct GenericCollectionService<PropertiesType: Codable, ResultType: Codable> {
         return result;
     }
 
-    func getRecentlyAdded() async throws -> Response<ResultType> {
+    public func getRecentlyAdded(limit: Int? = nil) async throws -> Response<ResultType> {
         let requestFilter: RequestFilter = RequestFilter(operator: "is", field: "playcount", value: "0")
-        return try await self.getCollection(requestFilter: requestFilter);
+        if let limit = limit {
+            return try await self.getCollection(
+                requestFilter: requestFilter,
+                requestLimits: RequestLimits(
+                    start: 0,
+                    end: limit
+                )
+            );
+        } else {
+            return try await self.getCollection(requestFilter: requestFilter);
+        }
     }
 
-    func getRandom() async throws -> Response<ResultType> {
+    public func getRandom(limit: Int? = nil) async throws -> Response<ResultType> {
         let requestSort: RequestSort = RequestSort(
             method: .random, order: .descending
         );
-        return try await self.getCollection(requestSort: requestSort);
+        if let limit = limit {
+            return try await self.getCollection(
+                requestSort: requestSort,
+                requestLimits: RequestLimits(
+                    start: 0,
+                    end: limit
+                )
+            );
+        } else {
+            return try await self.getCollection(requestSort: requestSort);
+        }
     }
 
-    func getContinueWatching() async throws -> Response<ResultType> {
+    public func getInProgress(limit: Int? = nil) async throws -> Response<ResultType> {
         let requestFilter: RequestFilter = RequestFilter(operator: "true", field: "inprogress", value: "")
-        return try await self.getCollection(requestFilter: requestFilter);
+        if let limit = limit {
+            return try await self.getCollection(
+                requestFilter: requestFilter,
+                requestLimits: RequestLimits(
+                    start: 0,
+                    end: limit
+                )
+            );
+        } else {
+            return try await self.getCollection(requestFilter: requestFilter);
+        }
     }
-
-
 
 }

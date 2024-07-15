@@ -1,4 +1,4 @@
-enum EpisodeFields: String, Codable {
+public enum EpisodeFields: String, Codable {
     case title;
     case plot;
     case votes;

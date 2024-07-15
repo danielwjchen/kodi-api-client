@@ -1,19 +1,19 @@
 import Foundation;
 
-struct GenericDetailsService<ParamsType: Codable, ResultType: Codable> {
+public struct GenericDetailsService<ParamsType: Codable, ResultType: Codable> {
     let baseUrl: String;
     let url: URL;
     let encoder: JSONEncoder = JSONEncoder();
     let decoder: JSONDecoder = JSONDecoder();
     let rpcMethod: String;
 
-    init(_ baseUrl: String, rpcMethod: String, query: String){
+    public init(_ baseUrl: String, rpcMethod: String, query: String){
         self.baseUrl = baseUrl;
         self.url = URL(string: "\(baseUrl)/jsonrpc?\(query)")!;
         self.rpcMethod = rpcMethod;
     }
 
-    func getDetails(
+    public func getDetails(
         _ params: ParamsType
     ) async throws -> Response<ResultType> {
         let movieDetailsRequest: Request<ParamsType> = Request<ParamsType>(

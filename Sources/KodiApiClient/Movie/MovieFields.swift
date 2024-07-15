@@ -1,5 +1,5 @@
 
-enum MovieFields: String, Codable {
+public enum MovieFields: String, Codable {
     case title
     case genre
     case year

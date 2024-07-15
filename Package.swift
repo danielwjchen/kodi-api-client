@@ -4,18 +4,27 @@ import PackageDescription
 
 let package = Package(
     name: "KodiApiClient",
-    platforms: [.macOS("10.15"),.tvOS("13.0")],
-    // products: [
-    //     .library(
-    //         name: "KodiApiClient",
-    //         targets: ["KodiApiClient"]
-    //     ),
-    // ],
-    targets: [
-        .executableTarget(
+    platforms: [.macOS("10.15"),.tvOS("13.0"), .iOS("13.0"), .watchOS("6.0")],
+    products: [
+        .library(
             name: "KodiApiClient",
-            path: "Sources"),
-        // .target(name: "KodiApiClient"),
+            targets: ["KodiApiClient"]
+        ),
+        .executable(
+            name: "KodiApiClientCommandLineTool",
+            targets: ["KodiApiClientCommandLineTool"]),
+    ],
+    dependencies: [
+        .package(url: "https://github.com/apple/swift-argument-parser", from: "1.4.0"),
+    ],
+    targets: [
+        .target(name: "KodiApiClient"),
+        .executableTarget(
+            name: "KodiApiClientCommandLineTool",
+            dependencies: [
+                "KodiApiClient",
+                .product(name: "ArgumentParser", package: "swift-argument-parser")
+            ]),
         .testTarget(
             name: "KodiApiClientTests",
             dependencies: ["KodiApiClient"],
