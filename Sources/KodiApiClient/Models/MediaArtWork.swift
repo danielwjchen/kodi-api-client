@@ -32,4 +32,38 @@ public struct MediaArtWork: Codable {
         case setLandscape = "set.landscape";
         case setPoster = "set.poster";
     }
+
+    public init(
+        banner: String,
+        clearart: String,
+        clearlogo: String,
+        discart: String,
+        fanart: String,
+        icon: String,
+        keyart: String,
+        landscape: String,
+        poster: String,
+        setBanner: String,
+        setClearlogo: String,
+        setFanart: String,
+        setKeyart: String,
+        setLandscape: String,
+        setPoster: String
+    ) {
+        self.banner = banner;
+        self.clearart = clearart;
+        self.clearlogo = clearlogo;
+        self.discart = discart;
+        self.fanart = fanart;
+        self.icon = icon;
+        self.keyart = keyart;
+        self.landscape = landscape;
+        self.poster = poster;
+        self.setBanner = setBanner;
+        self.setClearlogo = setClearlogo;
+        self.setFanart = setFanart;
+        self.setKeyart = setKeyart;
+        self.setLandscape = setLandscape;
+        self.setPoster = setPoster;
+    }
 }
