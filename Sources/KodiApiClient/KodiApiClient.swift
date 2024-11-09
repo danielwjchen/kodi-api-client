@@ -1,5 +1,11 @@
 import Foundation
 
+let customAllowedSet = CharacterSet.urlQueryAllowed.subtracting(CharacterSet(charactersIn: "/"))
+
+public enum KodiApiClientError: Error {
+    case brokenImageUrl
+}
+
 public struct KodiApiClient {
 
     let baseUrl: String;
@@ -149,5 +155,13 @@ public struct KodiApiClient {
         );
         let result = try await movieDetailsService.getDetails(params)
         return result;
+    }
+
+    public func getImageUrl(_ imageUrl: String) throws -> String {
+        if let url: String = imageUrl.addingPercentEncoding(withAllowedCharacters: customAllowedSet) {
+            return "\(self.baseUrl)/image/\(url))"
+        } else {
+            throw KodiApiClientError.brokenImageUrl
+        }
     }
 }
