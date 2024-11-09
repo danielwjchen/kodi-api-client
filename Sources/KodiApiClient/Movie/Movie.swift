@@ -11,7 +11,7 @@ public struct Movie: Codable {
     public var imdbnumber: String?;
     public var label: String?;
     public var lastplayed: String?;
-    public var movieid: Int?;
+    public var movieid: Int;
     public var mpaa: String?;
     public var originaltitle: String?;
     public var playcount: Int?;

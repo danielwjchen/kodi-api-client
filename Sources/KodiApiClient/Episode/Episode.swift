@@ -6,7 +6,7 @@ public struct Episode: Codable {
     // public var dateadded: Date;
     public var director: [String]?;
     public var episode: Int?;
-    public var episodeid: Int?;
+    public var episodeid: Int;
     public var file: String?;
     public var firstaired: String?;
     public var genre: [String]?;
