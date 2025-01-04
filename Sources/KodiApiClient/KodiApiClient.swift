@@ -162,7 +162,7 @@ public struct KodiApiClient {
 
     public func getVideoUrl(_ videoUrl: String) -> String? {
         if let url: String = videoUrl.addingPercentEncoding(withAllowedCharacters: customAllowedSet) {
-            return "\(self.baseUrl)/vfs/\(url))"
+            return "\(self.baseUrl)/vfs/\(url)"
         }
         return nil
     }
