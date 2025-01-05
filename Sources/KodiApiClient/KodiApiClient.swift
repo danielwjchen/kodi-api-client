@@ -155,7 +155,7 @@ public struct KodiApiClient {
 
     public func getImageUrl(_ imageUrl: String) -> String? {
         if let url: String = imageUrl.addingPercentEncoding(withAllowedCharacters: customAllowedSet) {
-            return "\(self.baseUrl)/image/\(url))"
+            return "\(self.baseUrl)/image/\(url)"
         }
         return nil
     }
